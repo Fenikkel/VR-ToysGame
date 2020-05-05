@@ -4,6 +4,8 @@ ToysGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
 ToysGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp
 ToysGame/Content/Geometry/Meshes/CubeMaterial.uasset
 ToysGame/Content/Geometry/Meshes/CubeMaterial.uexp
+ToysGame/Content/Geometry/Meshes/TemplateFloor.uasset
+ToysGame/Content/Geometry/Meshes/TemplateFloor.uexp
 ToysGame/Content/ToysGame/MainMenu.uexp
 ToysGame/Content/ToysGame/MainMenu.umap
 ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset

@@ -330,90 +330,91 @@
 "../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 329
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 330
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 331
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 332
-"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Enum.uasset" 333
-"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Flipbook_Enum.uasset" 334
-"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Imposter_Enum.uasset" 335
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 336
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 337
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 338
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 339
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 340
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 341
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 342
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 343
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 344
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 345
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 346
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 347
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 348
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 349
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 350
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 351
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 352
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 353
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 354
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 355
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 356
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 357
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 358
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 359
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 360
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 361
-"../../../Engine/Content/Maps/Entry.umap" 362
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 363
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 364
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 365
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 366
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 367
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 368
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 369
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 370
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 371
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 372
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 373
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BallPhysicalMaterial.uasset" 374
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_Ball.uasset" 375
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 376
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/BallMask.uasset" 377
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/PixBallTex.uasset" 378
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_Ball.uasset" 379
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Geometry/Meshes/CubeMaterial.uasset" 380
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 381
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_BlockBuildingObject.uasset" 382
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 383
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 384
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 385
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 386
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 387
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 388
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 389
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 390
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 391
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 392
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/TeleportMCP.uasset" 393
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 394
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 395
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 396
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 397
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 398
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 399
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 400
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 401
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 402
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 403
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 404
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 405
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/1x1_cube.uasset" 406
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/BeaconDirection.uasset" 407
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/BeamMesh.uasset" 408
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 409
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 410
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_SeeThroughGreen.uasset" 411
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_SeeThroughRed.uasset" 412
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/M_Buildingobject.uasset" 413
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 414
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset" 415
-"../../../Engine/Content/BasicShapes/Cube.uasset" 416
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 417
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu.umap" 418
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Geometry/Meshes/CubeMaterial.uasset" 332
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Geometry/Meshes/TemplateFloor.uasset" 333
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 334
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Enum.uasset" 335
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Flipbook_Enum.uasset" 336
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Imposter_Enum.uasset" 337
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 338
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 339
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 340
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 341
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 342
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 343
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 344
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 345
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 346
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 348
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 349
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 350
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 351
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 352
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 353
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 354
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 355
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 356
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 357
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 358
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 359
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 360
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 361
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 362
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 363
+"../../../Engine/Content/Maps/Entry.umap" 364
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 365
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 366
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 367
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 368
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 369
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 370
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 371
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 372
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 373
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 374
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 375
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BallPhysicalMaterial.uasset" 376
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_Ball.uasset" 377
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 378
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/BallMask.uasset" 379
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/PixBallTex.uasset" 380
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_Ball.uasset" 381
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 382
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_BlockBuildingObject.uasset" 383
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 384
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 385
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 386
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 387
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 388
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 389
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 390
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 392
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 393
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/TeleportMCP.uasset" 394
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 395
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 396
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 397
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 398
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 399
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 400
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 401
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 402
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 403
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 404
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 405
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 406
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/1x1_cube.uasset" 407
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/BeaconDirection.uasset" 408
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/BeamMesh.uasset" 409
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 410
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 411
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_SeeThroughGreen.uasset" 412
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_SeeThroughRed.uasset" 413
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 414
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/M_Buildingobject.uasset" 415
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 416
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset" 417
+"../../../Engine/Content/BasicShapes/Cube.uasset" 418
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu.umap" 419
