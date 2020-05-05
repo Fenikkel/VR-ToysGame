@@ -13,6 +13,8 @@ ToysGame/Content/ToysGame/BluePrints/BallPhysicalMaterial.uasset
 ToysGame/Content/ToysGame/BluePrints/BallPhysicalMaterial.uexp
 ToysGame/Content/ToysGame/BluePrints/BP_Ball.uasset
 ToysGame/Content/ToysGame/BluePrints/BP_Ball.uexp
+ToysGame/Content/ToysGame/BluePrints/BP_BlockBuildingObject.uasset
+ToysGame/Content/ToysGame/BluePrints/BP_BlockBuildingObject.uexp
 ToysGame/Content/ToysGame/BluePrints/M_Buildingobject.uasset
 ToysGame/Content/ToysGame/BluePrints/M_Buildingobject.uexp
 ToysGame/Content/ToysGame/Material/BallMask.uasset
