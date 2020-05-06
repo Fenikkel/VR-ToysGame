@@ -1627,15 +1627,15 @@
 "../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BallPhysicalMaterial.uasset" 1626
 "../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_Ball.uasset" 1627
 "../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BP_Ball.uasset" 1628
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/BallMask.uasset" 1629
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/PixBallTex.uasset" 1630
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Textures/BallMask.uasset" 1629
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Textures/PixBallTex.uasset" 1630
 "../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_Ball.uasset" 1631
 "../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/M_Ball.uasset" 1632
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/IFbqE.uasset" 1633
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Textures/PixBallTexture.uasset" 1633
 "../../../Engine/Content/EngineResources/DefaultTexture.uasset" 1634
 "../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/WorldCoordinate3Way.uasset" 1635
 "../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_CubeA.uasset" 1636
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/PixBallTexture.uasset" 1637
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Textures/IFbqE.uasset" 1637
 "../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1638
 "../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1639
 "../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1640
@@ -1793,53 +1793,57 @@
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1792
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1793
 "../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1794
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 1795
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1796
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_BlockBuildingObject.uasset" 1797
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 1798
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 1799
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 1800
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 1801
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 1802
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 1803
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 1804
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 1805
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 1806
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/TeleportMCP.uasset" 1807
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 1808
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 1809
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 1810
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 1811
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 1812
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1813
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1814
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1815
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 1816
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 1817
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 1818
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/1x1_cube.uasset" 1819
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/BeaconDirection.uasset" 1820
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/BeamMesh.uasset" 1821
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 1822
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 1823
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_SeeThroughGreen.uasset" 1824
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_SeeThroughRed.uasset" 1825
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_BuildingObject.uasset" 1826
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 1827
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset" 1828
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu.umap" 1829
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" 1830
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" 1831
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 1832
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 1833
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 1834
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Geometry/Meshes/1M_Cube.uasset" 1835
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" 1836
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 1837
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 1838
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 1839
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 1840
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 1841
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" 1842
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/GenericHMD.uasset" 1843
-"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/StartupMap.umap" 1844
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_Lever.uasset" 1795
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/StaticMesh/SM_LeverRadialSwitchBase.uasset" 1796
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/StaticMesh/SM_LeverSwitchRadialHandle.uasset" 1797
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_leverSwitch.uasset" 1798
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 1799
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1800
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_BlockBuildingObject.uasset" 1801
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 1802
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 1803
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 1804
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 1805
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 1806
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 1807
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 1808
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 1809
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 1810
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/TeleportMCP.uasset" 1811
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 1812
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 1813
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 1814
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 1815
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 1816
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1817
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 1818
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1819
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 1820
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 1821
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 1822
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/1x1_cube.uasset" 1823
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/BeaconDirection.uasset" 1824
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/BeamMesh.uasset" 1825
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 1826
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 1827
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_SeeThroughGreen.uasset" 1828
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_SeeThroughRed.uasset" 1829
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/BP_BuildingObject.uasset" 1830
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 1831
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset" 1832
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu.umap" 1833
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" 1834
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" 1835
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 1836
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 1837
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 1838
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Geometry/Meshes/1M_Cube.uasset" 1839
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" 1840
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 1841
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 1842
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 1843
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 1844
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 1845
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" 1846
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualReality/Meshes/GenericHMD.uasset" 1847
+"../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Maps/StartupMap.umap" 1848
