@@ -1,11 +1,10 @@
+ToysGame/Config/DefaultEngine.ini
 Engine/GlobalShaderCache-SF_VULKAN_ES31_ANDROID_NOUB.bin
 ToysGame/AssetRegistry.bin
 ToysGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
 ToysGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp
 ToysGame/Content/Geometry/Meshes/CubeMaterial.uasset
 ToysGame/Content/Geometry/Meshes/CubeMaterial.uexp
-ToysGame/Content/Geometry/Meshes/TemplateFloor.uasset
-ToysGame/Content/Geometry/Meshes/TemplateFloor.uexp
 ToysGame/Content/ToysGame/MainMenu.uexp
 ToysGame/Content/ToysGame/MainMenu.umap
 ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset
@@ -17,8 +16,8 @@ ToysGame/Content/ToysGame/BluePrints/BP_Ball.uasset
 ToysGame/Content/ToysGame/BluePrints/BP_Ball.uexp
 ToysGame/Content/ToysGame/BluePrints/BP_BlockBuildingObject.uasset
 ToysGame/Content/ToysGame/BluePrints/BP_BlockBuildingObject.uexp
-ToysGame/Content/ToysGame/BluePrints/M_Buildingobject.uasset
-ToysGame/Content/ToysGame/BluePrints/M_Buildingobject.uexp
+ToysGame/Content/ToysGame/BluePrints/BP_BuildingObject.uasset
+ToysGame/Content/ToysGame/BluePrints/BP_BuildingObject.uexp
 ToysGame/Content/ToysGame/Material/BallMask.uasset
 ToysGame/Content/ToysGame/Material/BallMask.ubulk
 ToysGame/Content/ToysGame/Material/BallMask.uexp
