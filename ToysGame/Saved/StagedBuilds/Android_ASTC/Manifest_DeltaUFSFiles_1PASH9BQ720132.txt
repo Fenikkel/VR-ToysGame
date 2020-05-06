@@ -1,4 +1,3 @@
-ToysGame/Config/DefaultEngine.ini
 Engine/GlobalShaderCache-SF_VULKAN_ES31_ANDROID_NOUB.bin
 ToysGame/AssetRegistry.bin
 ToysGame/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
