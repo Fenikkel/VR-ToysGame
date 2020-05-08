@@ -1,1 +1,1 @@
-../../../ToysGame/ToysGame.uproject   -Messaging -SessionId=EC1E0C0143EE0AADE2002F806718C11C -SessionOwner="Fenikkel" -SessionName="Quest (1PASH9BQ720132)"
+../../../ToysGame/ToysGame.uproject  /Game/ToysGame/MainMenu -Messaging -SessionId=585677C94205D0F57698E68ED45360C6 -SessionOwner="Fenikkel" -SessionName="Launch On Device" -iterative

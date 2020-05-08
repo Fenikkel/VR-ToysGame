@@ -72,12 +72,12 @@
         "source": "C:\\Users\\Fenikkel\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\c00966cec2af5aa1a09f5905c9722865\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\Fenikkel\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\ff2d5a3ba39fc5d0daaec17326c31e9f\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
         "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable_downloadimageh.png.flat",
         "source": "Y:\\app\\src\\main\\res\\drawable\\downloadimageh.png"
+    },
+    {
+        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Fenikkel\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\ff2d5a3ba39fc5d0daaec17326c31e9f\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
@@ -96,12 +96,12 @@
         "source": "C:\\Users\\Fenikkel\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-11.8.0.aar\\55561100b08ad69c0e1af7517455a8cb\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
     },
     {
-        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\Fenikkel\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\c00966cec2af5aa1a09f5905c9722865\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "C:\\Users\\Fenikkel\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\ff2d5a3ba39fc5d0daaec17326c31e9f\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Fenikkel\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\c00966cec2af5aa1a09f5905c9722865\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",

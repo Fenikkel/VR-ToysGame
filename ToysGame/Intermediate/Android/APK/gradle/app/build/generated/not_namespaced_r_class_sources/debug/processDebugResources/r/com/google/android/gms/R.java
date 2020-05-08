@@ -12,15 +12,12 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int adSize = 0x7f020000;
-        public static final int adSizes = 0x7f020001;
-        public static final int adUnitId = 0x7f020002;
-        public static final int buttonSize = 0x7f020003;
-        public static final int circleCrop = 0x7f020004;
-        public static final int colorScheme = 0x7f020005;
-        public static final int imageAspectRatio = 0x7f020010;
-        public static final int imageAspectRatioAdjust = 0x7f020011;
-        public static final int scopeUris = 0x7f020019;
+        public static final int buttonSize = 0x7f020000;
+        public static final int circleCrop = 0x7f020001;
+        public static final int colorScheme = 0x7f020002;
+        public static final int imageAspectRatio = 0x7f02000d;
+        public static final int imageAspectRatioAdjust = 0x7f02000e;
+        public static final int scopeUris = 0x7f020016;
     }
     public static final class color {
         private color() {}
@@ -110,31 +107,15 @@ public final class R {
         public static final int common_open_on_phone = 0x7f0a001c;
         public static final int common_signin_button_text = 0x7f0a001d;
         public static final int common_signin_button_text_long = 0x7f0a001e;
-        public static final int s1 = 0x7f0a0022;
-        public static final int s2 = 0x7f0a0023;
-        public static final int s3 = 0x7f0a0024;
-        public static final int s4 = 0x7f0a0025;
-        public static final int s5 = 0x7f0a0026;
-        public static final int s6 = 0x7f0a0027;
-        public static final int s7 = 0x7f0a0028;
-    }
-    public static final class style {
-        private style() {}
-
-        public static final int Theme_IAPTheme = 0x7f0b000f;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] AdsAttrs = { 0x7f020000, 0x7f020001, 0x7f020002 };
-        public static final int AdsAttrs_adSize = 0;
-        public static final int AdsAttrs_adSizes = 1;
-        public static final int AdsAttrs_adUnitId = 2;
-        public static final int[] LoadingImageView = { 0x7f020004, 0x7f020010, 0x7f020011 };
+        public static final int[] LoadingImageView = { 0x7f020001, 0x7f02000d, 0x7f02000e };
         public static final int LoadingImageView_circleCrop = 0;
         public static final int LoadingImageView_imageAspectRatio = 1;
         public static final int LoadingImageView_imageAspectRatioAdjust = 2;
-        public static final int[] SignInButton = { 0x7f020003, 0x7f020005, 0x7f020019 };
+        public static final int[] SignInButton = { 0x7f020000, 0x7f020002, 0x7f020016 };
         public static final int SignInButton_buttonSize = 0;
         public static final int SignInButton_colorScheme = 1;
         public static final int SignInButton_scopeUris = 2;

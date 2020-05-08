@@ -13,21 +13,6 @@ public final class R {
   }
   public static final class attr {
     /**
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     */
-    public static final int adSize=0x7f020000;
-    /**
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     */
-    public static final int adSizes=0x7f020001;
-    /**
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     */
-    public static final int adUnitId=0x7f020002;
-    /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
@@ -43,12 +28,12 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      */
-    public static final int buttonSize=0x7f020003;
+    public static final int buttonSize=0x7f020000;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int circleCrop=0x7f020004;
+    public static final int circleCrop=0x7f020001;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -65,33 +50,33 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      */
-    public static final int colorScheme=0x7f020005;
+    public static final int colorScheme=0x7f020002;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int coordinatorLayoutStyle=0x7f020006;
+    public static final int coordinatorLayoutStyle=0x7f020003;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int font=0x7f020007;
+    public static final int font=0x7f020004;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int fontProviderAuthority=0x7f020008;
+    public static final int fontProviderAuthority=0x7f020005;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int fontProviderCerts=0x7f020009;
+    public static final int fontProviderCerts=0x7f020006;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -103,7 +88,7 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int fontProviderFetchStrategy=0x7f02000a;
+    public static final int fontProviderFetchStrategy=0x7f020007;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      * <p>Must be one of the following constant values.</p>
@@ -115,17 +100,17 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      */
-    public static final int fontProviderFetchTimeout=0x7f02000b;
+    public static final int fontProviderFetchTimeout=0x7f020008;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int fontProviderPackage=0x7f02000c;
+    public static final int fontProviderPackage=0x7f020009;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int fontProviderQuery=0x7f02000d;
+    public static final int fontProviderQuery=0x7f02000a;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -137,15 +122,15 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int fontStyle=0x7f02000e;
+    public static final int fontStyle=0x7f02000b;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int fontWeight=0x7f02000f;
+    public static final int fontWeight=0x7f02000c;
     /**
      * <p>May be a floating point value, such as "<code>1.2</code>".
      */
-    public static final int imageAspectRatio=0x7f020010;
+    public static final int imageAspectRatio=0x7f02000d;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -158,21 +143,21 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int imageAspectRatioAdjust=0x7f020011;
+    public static final int imageAspectRatioAdjust=0x7f02000e;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int keylines=0x7f020012;
+    public static final int keylines=0x7f02000f;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int layout_anchor=0x7f020013;
+    public static final int layout_anchor=0x7f020010;
     /**
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -196,12 +181,12 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      */
-    public static final int layout_anchorGravity=0x7f020014;
+    public static final int layout_anchorGravity=0x7f020011;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int layout_behavior=0x7f020015;
+    public static final int layout_behavior=0x7f020012;
     /**
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -219,7 +204,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      */
-    public static final int layout_dodgeInsetEdges=0x7f020016;
+    public static final int layout_dodgeInsetEdges=0x7f020013;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -236,11 +221,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      */
-    public static final int layout_insetEdge=0x7f020017;
+    public static final int layout_insetEdge=0x7f020014;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int layout_keyline=0x7f020018;
+    public static final int layout_keyline=0x7f020015;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -249,7 +234,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int scopeUris=0x7f020019;
+    public static final int scopeUris=0x7f020016;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -259,7 +244,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int statusBarBackground=0x7f02001a;
+    public static final int statusBarBackground=0x7f020017;
   }
   public static final class bool {
     public static final int abc_action_bar_embed_tabs=0x7f030000;
@@ -485,45 +470,38 @@ public final class R {
     public static final int kilobytes_per_second=0x7f0a001f;
     public static final int notification_download_complete=0x7f0a0020;
     public static final int notification_download_failed=0x7f0a0021;
-    public static final int s1=0x7f0a0022;
-    public static final int s2=0x7f0a0023;
-    public static final int s3=0x7f0a0024;
-    public static final int s4=0x7f0a0025;
-    public static final int s5=0x7f0a0026;
-    public static final int s6=0x7f0a0027;
-    public static final int s7=0x7f0a0028;
-    public static final int state_completed=0x7f0a0029;
-    public static final int state_connecting=0x7f0a002a;
-    public static final int state_downloading=0x7f0a002b;
-    public static final int state_failed=0x7f0a002c;
-    public static final int state_failed_cancelled=0x7f0a002d;
-    public static final int state_failed_fetching_url=0x7f0a002e;
-    public static final int state_failed_sdcard_full=0x7f0a002f;
-    public static final int state_failed_unlicensed=0x7f0a0030;
-    public static final int state_fetching_url=0x7f0a0031;
-    public static final int state_idle=0x7f0a0032;
-    public static final int state_paused_by_request=0x7f0a0033;
-    public static final int state_paused_network_setup_failure=0x7f0a0034;
-    public static final int state_paused_network_unavailable=0x7f0a0035;
-    public static final int state_paused_roaming=0x7f0a0036;
-    public static final int state_paused_sdcard_unavailable=0x7f0a0037;
-    public static final int state_paused_wifi_disabled=0x7f0a0038;
-    public static final int state_paused_wifi_unavailable=0x7f0a0039;
-    public static final int state_unknown=0x7f0a003a;
-    public static final int status_bar_notification_info_overflow=0x7f0a003b;
-    public static final int text_button_cancel=0x7f0a003c;
-    public static final int text_button_cancel_verify=0x7f0a003d;
-    public static final int text_button_pause=0x7f0a003e;
-    public static final int text_button_resume=0x7f0a003f;
-    public static final int text_button_resume_cellular=0x7f0a0040;
-    public static final int text_button_wifi_settings=0x7f0a0041;
-    public static final int text_paused_cellular=0x7f0a0042;
-    public static final int text_paused_cellular_2=0x7f0a0043;
-    public static final int text_validation_complete=0x7f0a0044;
-    public static final int text_validation_failed=0x7f0a0045;
-    public static final int text_verifying_download=0x7f0a0046;
-    public static final int time_remaining=0x7f0a0047;
-    public static final int time_remaining_notification=0x7f0a0048;
+    public static final int state_completed=0x7f0a0022;
+    public static final int state_connecting=0x7f0a0023;
+    public static final int state_downloading=0x7f0a0024;
+    public static final int state_failed=0x7f0a0025;
+    public static final int state_failed_cancelled=0x7f0a0026;
+    public static final int state_failed_fetching_url=0x7f0a0027;
+    public static final int state_failed_sdcard_full=0x7f0a0028;
+    public static final int state_failed_unlicensed=0x7f0a0029;
+    public static final int state_fetching_url=0x7f0a002a;
+    public static final int state_idle=0x7f0a002b;
+    public static final int state_paused_by_request=0x7f0a002c;
+    public static final int state_paused_network_setup_failure=0x7f0a002d;
+    public static final int state_paused_network_unavailable=0x7f0a002e;
+    public static final int state_paused_roaming=0x7f0a002f;
+    public static final int state_paused_sdcard_unavailable=0x7f0a0030;
+    public static final int state_paused_wifi_disabled=0x7f0a0031;
+    public static final int state_paused_wifi_unavailable=0x7f0a0032;
+    public static final int state_unknown=0x7f0a0033;
+    public static final int status_bar_notification_info_overflow=0x7f0a0034;
+    public static final int text_button_cancel=0x7f0a0035;
+    public static final int text_button_cancel_verify=0x7f0a0036;
+    public static final int text_button_pause=0x7f0a0037;
+    public static final int text_button_resume=0x7f0a0038;
+    public static final int text_button_resume_cellular=0x7f0a0039;
+    public static final int text_button_wifi_settings=0x7f0a003a;
+    public static final int text_paused_cellular=0x7f0a003b;
+    public static final int text_paused_cellular_2=0x7f0a003c;
+    public static final int text_validation_complete=0x7f0a003d;
+    public static final int text_validation_failed=0x7f0a003e;
+    public static final int text_verifying_download=0x7f0a003f;
+    public static final int time_remaining=0x7f0a0040;
+    public static final int time_remaining_notification=0x7f0a0041;
   }
   public static final class style {
     public static final int ButtonBackground=0x7f0b0000;
@@ -541,62 +519,13 @@ public final class R {
     public static final int TextAppearance_Compat_Notification_Time_Media=0x7f0b000c;
     public static final int TextAppearance_Compat_Notification_Title=0x7f0b000d;
     public static final int TextAppearance_Compat_Notification_Title_Media=0x7f0b000e;
-    public static final int Theme_IAPTheme=0x7f0b000f;
-    public static final int UE4BaseTheme=0x7f0b0010;
-    public static final int UE4SplashTheme=0x7f0b0011;
-    public static final int Widget_Compat_NotificationActionContainer=0x7f0b0012;
-    public static final int Widget_Compat_NotificationActionText=0x7f0b0013;
-    public static final int Widget_Support_CoordinatorLayout=0x7f0b0014;
+    public static final int UE4BaseTheme=0x7f0b000f;
+    public static final int UE4SplashTheme=0x7f0b0010;
+    public static final int Widget_Compat_NotificationActionContainer=0x7f0b0011;
+    public static final int Widget_Compat_NotificationActionText=0x7f0b0012;
+    public static final int Widget_Support_CoordinatorLayout=0x7f0b0013;
   }
   public static final class styleable {
-    /**
-     * Attributes that can be used with a AdsAttrs.
-     * <p>Includes the following attributes:</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AdsAttrs_adSize com.YourCompany.ToysGame:adSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AdsAttrs_adSizes com.YourCompany.ToysGame:adSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AdsAttrs_adUnitId com.YourCompany.ToysGame:adUnitId}</code></td><td></td></tr>
-     * </table>
-     * @see #AdsAttrs_adSize
-     * @see #AdsAttrs_adSizes
-     * @see #AdsAttrs_adUnitId
-     */
-    public static final int[] AdsAttrs={
-      0x7f020000, 0x7f020001, 0x7f020002
-    };
-    /**
-     * <p>This symbol is the offset where the {@link com.YourCompany.ToysGame.R.attr#adSize}
-     * attribute's value can be found in the {@link #AdsAttrs} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name com.YourCompany.ToysGame:adSize
-     */
-    public static final int AdsAttrs_adSize=0;
-    /**
-     * <p>This symbol is the offset where the {@link com.YourCompany.ToysGame.R.attr#adSizes}
-     * attribute's value can be found in the {@link #AdsAttrs} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name com.YourCompany.ToysGame:adSizes
-     */
-    public static final int AdsAttrs_adSizes=1;
-    /**
-     * <p>This symbol is the offset where the {@link com.YourCompany.ToysGame.R.attr#adUnitId}
-     * attribute's value can be found in the {@link #AdsAttrs} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name com.YourCompany.ToysGame:adUnitId
-     */
-    public static final int AdsAttrs_adUnitId=2;
     /**
      * Attributes that can be used with a CoordinatorLayout.
      * <p>Includes the following attributes:</p>
@@ -611,7 +540,7 @@ public final class R {
      * @see #CoordinatorLayout_statusBarBackground
      */
     public static final int[] CoordinatorLayout={
-      0x7f020012, 0x7f02001a
+      0x7f02000f, 0x7f020017
     };
     /**
      * <p>This symbol is the offset where the {@link com.YourCompany.ToysGame.R.attr#keylines}
@@ -664,8 +593,8 @@ public final class R {
      * @see #CoordinatorLayout_Layout_layout_keyline
      */
     public static final int[] CoordinatorLayout_Layout={
-      0x010100b3, 0x7f020013, 0x7f020014, 0x7f020015, 
-      0x7f020016, 0x7f020017, 0x7f020018
+      0x010100b3, 0x7f020010, 0x7f020011, 0x7f020012, 
+      0x7f020013, 0x7f020014, 0x7f020015
     };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
@@ -823,8 +752,8 @@ public final class R {
      * @see #FontFamily_fontProviderQuery
      */
     public static final int[] FontFamily={
-      0x7f020008, 0x7f020009, 0x7f02000a, 0x7f02000b, 
-      0x7f02000c, 0x7f02000d
+      0x7f020005, 0x7f020006, 0x7f020007, 0x7f020008, 
+      0x7f020009, 0x7f02000a
     };
     /**
      * <p>This symbol is the offset where the {@link com.YourCompany.ToysGame.R.attr#fontProviderAuthority}
@@ -924,8 +853,8 @@ public final class R {
      * @see #FontFamilyFont_fontWeight
      */
     public static final int[] FontFamilyFont={
-      0x01010532, 0x01010533, 0x0101053f, 0x7f020007, 
-      0x7f02000e, 0x7f02000f
+      0x01010532, 0x01010533, 0x0101053f, 0x7f020004, 
+      0x7f02000b, 0x7f02000c
     };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#font}
@@ -1019,7 +948,7 @@ public final class R {
      * @see #LoadingImageView_imageAspectRatioAdjust
      */
     public static final int[] LoadingImageView={
-      0x7f020004, 0x7f020010, 0x7f020011
+      0x7f020001, 0x7f02000d, 0x7f02000e
     };
     /**
      * <p>This symbol is the offset where the {@link com.YourCompany.ToysGame.R.attr#circleCrop}
@@ -1074,7 +1003,7 @@ public final class R {
      * @see #SignInButton_scopeUris
      */
     public static final int[] SignInButton={
-      0x7f020003, 0x7f020005, 0x7f020019
+      0x7f020000, 0x7f020002, 0x7f020016
     };
     /**
      * <p>This symbol is the offset where the {@link com.YourCompany.ToysGame.R.attr#buttonSize}

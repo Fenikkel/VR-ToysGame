@@ -24,6 +24,3 @@ android {
 dependencies {
 	implementation('com.android.support:support-v13:27.1.0')
 }
-dependencies {
-	implementation('com.google.android.gms:play-services-ads:11.8.0')
-}

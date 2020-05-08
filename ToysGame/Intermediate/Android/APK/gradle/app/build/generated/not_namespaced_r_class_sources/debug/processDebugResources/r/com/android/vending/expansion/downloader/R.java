@@ -37,26 +37,26 @@ public final class R {
         public static final int kilobytes_per_second = 0x7f0a001f;
         public static final int notification_download_complete = 0x7f0a0020;
         public static final int notification_download_failed = 0x7f0a0021;
-        public static final int state_completed = 0x7f0a0029;
-        public static final int state_connecting = 0x7f0a002a;
-        public static final int state_downloading = 0x7f0a002b;
-        public static final int state_failed = 0x7f0a002c;
-        public static final int state_failed_cancelled = 0x7f0a002d;
-        public static final int state_failed_fetching_url = 0x7f0a002e;
-        public static final int state_failed_sdcard_full = 0x7f0a002f;
-        public static final int state_failed_unlicensed = 0x7f0a0030;
-        public static final int state_fetching_url = 0x7f0a0031;
-        public static final int state_idle = 0x7f0a0032;
-        public static final int state_paused_by_request = 0x7f0a0033;
-        public static final int state_paused_network_setup_failure = 0x7f0a0034;
-        public static final int state_paused_network_unavailable = 0x7f0a0035;
-        public static final int state_paused_roaming = 0x7f0a0036;
-        public static final int state_paused_sdcard_unavailable = 0x7f0a0037;
-        public static final int state_paused_wifi_disabled = 0x7f0a0038;
-        public static final int state_paused_wifi_unavailable = 0x7f0a0039;
-        public static final int state_unknown = 0x7f0a003a;
-        public static final int time_remaining = 0x7f0a0047;
-        public static final int time_remaining_notification = 0x7f0a0048;
+        public static final int state_completed = 0x7f0a0022;
+        public static final int state_connecting = 0x7f0a0023;
+        public static final int state_downloading = 0x7f0a0024;
+        public static final int state_failed = 0x7f0a0025;
+        public static final int state_failed_cancelled = 0x7f0a0026;
+        public static final int state_failed_fetching_url = 0x7f0a0027;
+        public static final int state_failed_sdcard_full = 0x7f0a0028;
+        public static final int state_failed_unlicensed = 0x7f0a0029;
+        public static final int state_fetching_url = 0x7f0a002a;
+        public static final int state_idle = 0x7f0a002b;
+        public static final int state_paused_by_request = 0x7f0a002c;
+        public static final int state_paused_network_setup_failure = 0x7f0a002d;
+        public static final int state_paused_network_unavailable = 0x7f0a002e;
+        public static final int state_paused_roaming = 0x7f0a002f;
+        public static final int state_paused_sdcard_unavailable = 0x7f0a0030;
+        public static final int state_paused_wifi_disabled = 0x7f0a0031;
+        public static final int state_paused_wifi_unavailable = 0x7f0a0032;
+        public static final int state_unknown = 0x7f0a0033;
+        public static final int time_remaining = 0x7f0a0040;
+        public static final int time_remaining_notification = 0x7f0a0041;
     }
     public static final class style {
         private style() {}

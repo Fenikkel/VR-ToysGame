@@ -47,28 +47,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "27",
+                        "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "3470",
+                        "startOffsets": "2861",
                         "endColumns": "100",
-                        "endOffsets": "3566"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Fenikkel\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-11.8.0.aar\\e7d112adbe3e3b19bb5c1b435ec5fc89\\res\\values-sk\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "235,308,417,481,548,637,740",
-                        "endColumns": "72,108,63,66,88,102,75",
-                        "endOffsets": "307,416,480,547,636,739,815"
-                    },
-                    "to": {
-                        "startLines": "20,21,22,23,24,25,26",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2861,2938,3051,3119,3190,3283,3390",
-                        "endColumns": "76,112,67,70,92,106,79",
-                        "endOffsets": "2933,3046,3114,3185,3278,3385,3465"
+                        "endOffsets": "2957"
                     }
                 }
             ]

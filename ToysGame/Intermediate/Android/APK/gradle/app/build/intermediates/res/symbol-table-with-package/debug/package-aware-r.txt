@@ -1,8 +1,5 @@
 com.YourCompany.ToysGame
 anim noaction
-attr adSize
-attr adSizes
-attr adUnitId
 attr buttonSize
 attr circleCrop
 attr colorScheme
@@ -236,13 +233,6 @@ string common_signin_button_text_long
 string kilobytes_per_second
 string notification_download_complete
 string notification_download_failed
-string s1
-string s2
-string s3
-string s4
-string s5
-string s6
-string s7
 string state_completed
 string state_connecting
 string state_downloading
@@ -290,13 +280,11 @@ style TextAppearance_Compat_Notification_Time
 style TextAppearance_Compat_Notification_Time_Media
 style TextAppearance_Compat_Notification_Title
 style TextAppearance_Compat_Notification_Title_Media
-style Theme_IAPTheme
 style UE4BaseTheme
 style UE4SplashTheme
 style Widget_Compat_NotificationActionContainer
 style Widget_Compat_NotificationActionText
 style Widget_Support_CoordinatorLayout
-styleable AdsAttrs adSize adSizes adUnitId
 styleable CoordinatorLayout keylines statusBarBackground
 styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_anchorGravity layout_behavior layout_dodgeInsetEdges layout_insetEdge layout_keyline
 styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchStrategy fontProviderFetchTimeout fontProviderPackage fontProviderQuery
