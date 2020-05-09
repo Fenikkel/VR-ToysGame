@@ -1,2 +1,14 @@
+ToysGame/Content/ToysGame/Material/M_BlockBackground.uasset
+ToysGame/Content/ToysGame/Material/M_BlockBackground.uexp
+ToysGame/Content/ToysGame/Material/M_BlockLetters1.uasset
+ToysGame/Content/ToysGame/Material/M_BlockLetters1.uexp
+ToysGame/Content/ToysGame/Material/M_BlockWood.uasset
+ToysGame/Content/ToysGame/Material/M_BlockWood.uexp
+ToysGame/Content/ToysGame/Material/M_ChildBlock.uasset
+ToysGame/Content/ToysGame/Material/M_ChildBlock.uexp
+ToysGame/Content/ToysGame/Material/M_HomeWood.uasset
+ToysGame/Content/ToysGame/Material/M_HomeWood.uexp
+ToysGame/Content/ToysGame/Material/M_Wood.uasset
+ToysGame/Content/ToysGame/Material/M_Wood.uexp
 alReality/Meshes/SM_FatCylinder.uexp
 ToysGame/Saved/Logs/ToysGame-backup-0001.01.01-00.00.00.log
