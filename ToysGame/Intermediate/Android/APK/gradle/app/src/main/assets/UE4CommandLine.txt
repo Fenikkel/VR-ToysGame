@@ -1,1 +1,1 @@
-../../../ToysGame/ToysGame.uproject  /Game/ToysGame/MainMenu -Messaging -SessionId=72B5A0FD4A761773296CAF956544EF17 -SessionOwner="Fenikkel" -SessionName="Launch On Device" -iterative
+../../../ToysGame/ToysGame.uproject  /Game/ToysGame/MainMenu -Messaging -SessionId=7A8080974889E00DCAF49BBBB5608705 -SessionOwner="Fenikkel" -SessionName="Launch On Device" -iterative
