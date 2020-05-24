@@ -2154,6 +2154,7 @@ Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(Prim
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")))
 Windows.Game:Staging:RemapDirectories:0=(From="Engine/Plugins/Lumin", To="Engine/Plugins/MagicLeap")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:UsingXGE:0=False
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:bExpandCustomClassPickerClassList:0=True
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:0=(Name="Matinee")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:1=(Name="CurveEditor")
 Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:0=(Parent="Matinee", CommandName="Matinee_PlayForward", Description="Matinee_PlayForward_Desc", ExecCommand="Matinee Play")

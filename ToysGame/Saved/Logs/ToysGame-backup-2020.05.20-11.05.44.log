@@ -1,0 +1,1600 @@
+﻿Log file open, 05/20/20 10:02:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ToysGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099326
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin DataPrepEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: NVIDIA GeForce GT 730
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Fenikko -epicuserid=2bebba9b9d4f454da230fd48964ebcc3 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Unreal Engine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Engine.ini]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.MobileMSAA:2]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:64]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:1]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.05.20-08.02.09:590][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[vr.MobileMultiView:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.05.20-08.02.09:591][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Engine.ini]
+[2020.05.20-08.02.09:592][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Engine.ini]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Engine.ini]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.20-08.02.09:592][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Engine.ini]
+[2020.05.20-08.02.09:592][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Engine.ini]
+[2020.05.20-08.02.09:595][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.20-08.02.09:595][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.20-08.02.09:596][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.20-08.02.09:597][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.20-08.02.09:597][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.20-08.02.09:597][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.20-08.02.09:601][  0]LogHAL: Display: Platform has ~ 8 GB [8544579584 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.20-08.02.09:601][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.20-08.02.09:601][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.20-08.02.09:601][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.20-08.02.09:602][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Scalability.ini]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.20-08.02.09:603][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Config/Windows/Engine.ini]
+[2020.05.20-08.02.09:603][  0]LogInit: Computer: DESKTOP-5KAS3EF
+[2020.05.20-08.02.09:603][  0]LogInit: User: Fenikkel
+[2020.05.20-08.02.09:603][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.20-08.02.09:603][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.20-08.02.09:603][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2020.05.20-08.02.09:603][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.20-08.02.09:604][  0]LogMemory: Process Physical Memory: 107.91 MB used, 107.92 MB peak
+[2020.05.20-08.02.09:604][  0]LogMemory: Process Virtual Memory: 103.91 MB used, 103.91 MB peak
+[2020.05.20-08.02.09:604][  0]LogMemory: Physical Memory: 3864.64 MB used,  4284.10 MB free, 8148.75 MB total
+[2020.05.20-08.02.09:604][  0]LogMemory: Virtual Memory: 5176.54 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.05.20-08.02.09:607][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.20-08.02.09:631][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.20-08.02.09:631][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.20-08.02.09:632][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.20-08.02.09:856][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.20-08.02.09:902][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.20-08.02.09:902][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.20-08.02.10:096][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.20-08.02.10:096][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.20-08.02.10:096][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.20-08.02.10:176][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 730' (Feature Level 11_0)
+[2020.05.20-08.02.10:176][  0]LogD3D11RHI:       2007/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.20-08.02.10:180][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.20-08.02.10:180][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.20-08.02.10:180][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.20-08.02.10:187][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.20-08.02.10:188][  0]LogD3D11RHI:     GPU DeviceId: 0x1287 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.20-08.02.10:188][  0]LogWindows: EnumDisplayDevices:
+[2020.05.20-08.02.10:188][  0]LogWindows:    0. 'NVIDIA GeForce GT 730' (P:1 D:1)
+[2020.05.20-08.02.10:188][  0]LogWindows:    1. 'NVIDIA GeForce GT 730' (P:0 D:0)
+[2020.05.20-08.02.10:189][  0]LogWindows:    2. 'NVIDIA GeForce GT 730' (P:0 D:0)
+[2020.05.20-08.02.10:189][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.05.20-08.02.10:189][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 730
+[2020.05.20-08.02.10:189][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.20-08.02.10:189][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.20-08.02.10:189][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2020.05.20-08.02.10:259][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.05.20-08.02.10:259][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.20-08.02.10:280][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.20-08.02.10:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.20-08.02.10:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.20-08.02.10:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.20-08.02.10:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.20-08.02.10:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.20-08.02.10:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.20-08.02.10:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.20-08.02.10:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.20-08.02.10:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.20-08.02.10:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.20-08.02.10:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.20-08.02.10:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.20-08.02.10:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.20-08.02.10:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.20-08.02.10:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.20-08.02.10:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.20-08.02.10:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.20-08.02.10:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.20-08.02.10:926][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.20-08.02.10:930][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.20-08.02.10:961][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Intermediate/Shaders/WorkingDirectory/10540/).
+[2020.05.20-08.02.10:961][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Fenikkel/AppData/Local/Temp/UnrealShaderWorkingDir/55BABF9B40CD67B306683D97F7929BE2/'.
+[2020.05.20-08.02.10:961][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.20-08.02.10:961][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.20-08.02.10:962][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.20-08.02.12:075][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.20-08.02.12:166][  0]LogDerivedDataCache: Loaded boot cache 0.09s 81MB C:/Users/Fenikkel/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.20-08.02.12:166][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Fenikkel/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.20-08.02.12:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.20-08.02.12:167][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.20-08.02.12:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.20-08.02.12:167][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.20-08.02.12:178][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.20-08.02.12:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.20-08.02.12:179][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.20-08.02.12:180][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Fenikkel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.20-08.02.12:180][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.20-08.02.12:180][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.20-08.02.12:656][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.20-08.02.12:659][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.20-08.02.12:660][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.20-08.02.12:723][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2020.05.20-08.02.13:158][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.20-08.02.13:451][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.20-08.02.13:451][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.20-08.02.13:451][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.20-08.02.13:451][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.20-08.02.13:451][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.20-08.02.13:500][  0]LogNetVersion: ToysGame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1793676695)
+[2020.05.20-08.02.15:233][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 1 prioritized culture(s) in 0.086761 seconds
+[2020.05.20-08.02.15:242][  0]LogUObjectArray: 46288 objects as part of root set at end of initial load.
+[2020.05.20-08.02.15:242][  0]LogUObjectAllocator: 8062376 out of 0 bytes used by permanent object pool.
+[2020.05.20-08.02.15:242][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.20-08.02.16:011][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.20-08.02.16:015][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.20-08.02.16:097][  0]SourceControl: Source control is disabled
+[2020.05.20-08.02.16:097][  0]SourceControl: Source control is disabled
+[2020.05.20-08.02.16:099][  0]SourceControl: Source control is disabled
+[2020.05.20-08.02.16:100][  0]SourceControl: Source control is disabled
+[2020.05.20-08.02.16:101][  0]SourceControl: Source control is disabled
+[2020.05.20-08.02.16:909][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.20-08.02.16:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.20-08.02.16:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.20-08.02.17:048][  0]LogOcInput: OculusInput pre-init called
+[2020.05.20-08.02.17:935][  0]LogEngine: Initializing Engine...
+[2020.05.20-08.02.17:937][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.20-08.02.18:746][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.20-08.02.18:757][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.20-08.02.18:776][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.20-08.02.18:777][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.20-08.02.18:777][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.20-08.02.18:777][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.20-08.02.18:777][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.20-08.02.18:777][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.20-08.02.18:777][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.20-08.02.18:777][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.20-08.02.18:777][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.20-08.02.18:777][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.20-08.02.18:811][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.20-08.02.18:811][  0]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.20-08.02.18:811][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.20-08.02.18:811][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.20-08.02.18:811][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.20-08.02.18:811][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.20-08.02.18:811][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.20-08.02.18:811][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.20-08.02.18:811][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.20-08.02.18:835][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.20-08.02.18:840][  0]LogInit: FAudioDevice initialized.
+[2020.05.20-08.02.18:841][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.20-08.02.19:007][  0]LogDerivedDataCache: Saved boot cache 0.17s 126MB C:/Users/Fenikkel/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.20-08.02.19:017][  0]LogInit: Texture streaming: Enabled
+[2020.05.20-08.02.19:033][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.20-08.02.19:033][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.20-08.02.19:035][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.20-08.02.19:114][  0]LogInit: Transaction tracking system initialized
+[2020.05.20-08.02.19:127][  0]BlueprintLog: New page: Editor Load
+[2020.05.20-08.02.19:165][  0]LocalizationService: Localization service is disabled
+[2020.05.20-08.02.19:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/' took 0.00s
+[2020.05.20-08.02.19:722][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.20-08.02.19:722][  0]LogCook: Display: Mobile HDR setting 0
+[2020.05.20-08.02.19:917][  0]SourceControl: Source control is disabled
+[2020.05.20-08.02.19:918][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.20-08.02.19:918][  0]LightingResults: New page: Lighting Build
+[2020.05.20-08.02.19:919][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-08.02.19:919][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-08.02.19:919][  0]MapCheck: New page: Map Check
+[2020.05.20-08.02.19:919][  0]LightingResults: New page: Lighting Build
+[2020.05.20-08.02.20:068][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.05.20-08.02.22:315][  0]LogMeshUtilities: Finished distance field build in 0.2s - 15x15x15 distance field, 204 triangles, Range [-0.7, 0.5], SM_Block
+[2020.05.20-08.02.22:317][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.20-08.02.22:338][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.20-08.02.22:399][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.05.20-08.02.22:399][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.20-08.02.22:400][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.218ms to complete.
+[2020.05.20-08.02.22:400][  0]LogFileHelpers: Loading map 'MainMenu' took 2.482
+[2020.05.20-08.02.22:680][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-08.02.22:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-08.02.22:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-08.02.22:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.20-08.02.22:736][  0]LogCollectionManager: Loaded 0 collections in 0.002761 seconds
+[2020.05.20-08.02.22:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Collections/' took 0.00s
+[2020.05.20-08.02.22:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Developers/Fenikkel/Collections/' took 0.00s
+[2020.05.20-08.02.22:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/Collections/' took 0.00s
+[2020.05.20-08.02.22:798][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 3158 classes and 762 folders.
+[2020.05.20-08.02.22:822][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.20-08.02.23:367][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.20-08.02.23:388][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.05.20-08.02.25:431][  0]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.20-08.02.25:435][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.20-08.02.25:453][  0]LogSlate: Took 0.011777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.20-08.02.25:662][  0]LogRenderer: Reallocating scene render targets to support 1020x660 Format 26 NumSamples 4 (Frame:1).
+[2020.05.20-08.02.25:813][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.20-08.02.25:814][  0]LogLoad: (Engine Initialization) Total time: 18.68 seconds
+[2020.05.20-08.02.25:814][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.20-08.02.26:070][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.20-08.02.26:170][  0]LogSlate: Took 0.011497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.20-08.02.26:261][  1]LogAssetRegistry: Asset discovery search completed in 13.5388 seconds
+[2020.05.20-08.02.26:266][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.05.20-08.37.32:042][347]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.20-08.37.32:076][347]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2020.05.20-08.37.32:394][347]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2020.05.20-08.37.34:032][347]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.20-08.37.34:217][348]LogSlate: Took 0.010290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.20-08.38.00:481][608]LogRenderer: Reallocating scene render targets to support 1096x708 Format 26 NumSamples 4 (Frame:1).
+[2020.05.20-08.39.48:473][625]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.20-08.40.36:725][161]BlueprintLog: New page: Compile BP_MotionController
+[2020.05.20-08.40.37:378][161]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2020.05.20-08.40.38:137][185]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_MotionController67E91BAB41932015254051B96A14676D.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2020.05.20-08.40.38:156][185]AssetCheck: New page: Asset Save: BP_MotionController
+[2020.05.20-08.40.38:156][185]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2020.05.20-08.42.13:096][989]BlueprintLog: New page: Compile BP_MotionController
+[2020.05.20-08.42.13:556][989]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2020.05.20-08.44.27:920][210]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.05.20-08.44.27:922][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.121
+[2020.05.20-08.44.27:924][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2020.05.20-08.44.27:942][210]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2020.05.20-08.44.27:942][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2020.05.20-08.44.28:157][210]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_MotionController_Auto169B6C7794F39DFDCEF32618A6F68091E.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset'
+[2020.05.20-08.44.28:160][210]LogFileHelpers: Auto-saving content packages took 0.239
+[2020.05.20-08.44.50:652][405]BlueprintLog: New page: Compile BP_MotionController
+[2020.05.20-08.44.51:099][405]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.05.20-08.44.51:749][444]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_MotionControllerBBBAB81C446A940895553DB7327E1E6E.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2020.05.20-08.44.51:770][444]AssetCheck: New page: Asset Save: BP_MotionController
+[2020.05.20-08.44.51:770][444]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2020.05.20-08.46.03:474][800]PIE: Warning: Constraint in '/Engine/Transient.World_6:PersistentLevel.BP_LeverSwitch_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.05.20-08.46.20:451][433]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.20-08.46.32:421][948]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ToysGame/BluePrints/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-08.47.53:816][648]LogSlate: Window 'BP_ButtonParent' being destroyed
+[2020.05.20-08.48.26:044][ 44]LogMetaData: Removing '/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ToysGame/BluePrints/BP_ButtonParent.PackageMetaData'
+[2020.05.20-08.48.26:045][ 44]LogMetaData: Removing '/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.SKEL_BP_ButtonParent_C:DefaultSceneRoot' ref from Metadata '/Game/ToysGame/BluePrints/BP_ButtonParent.PackageMetaData'
+[2020.05.20-08.48.26:045][ 44]LogMetaData: Removing '/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.SKEL_BP_ButtonParent_C:UserConstructionScript' ref from Metadata '/Game/ToysGame/BluePrints/BP_ButtonParent.PackageMetaData'
+[2020.05.20-08.48.26:045][ 44]LogMetaData: Removing '/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.SKEL_BP_ButtonParent_C' ref from Metadata '/Game/ToysGame/BluePrints/BP_ButtonParent.PackageMetaData'
+[2020.05.20-08.48.26:045][ 44]LogMetaData: Removing '/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent_C:DefaultSceneRoot' ref from Metadata '/Game/ToysGame/BluePrints/BP_ButtonParent.PackageMetaData'
+[2020.05.20-08.48.26:045][ 44]LogMetaData: Removing '/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent_C' ref from Metadata '/Game/ToysGame/BluePrints/BP_ButtonParent.PackageMetaData'
+[2020.05.20-08.48.26:045][ 44]LogMetaData: Removing '/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ToysGame/BluePrints/BP_ButtonParent.PackageMetaData'
+[2020.05.20-08.48.26:045][ 44]LogMetaData: Removing '/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ToysGame/BluePrints/BP_ButtonParent.PackageMetaData'
+[2020.05.20-08.48.26:045][ 44]LogMetaData: Removing '/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ToysGame/BluePrints/BP_ButtonParent.PackageMetaData'
+[2020.05.20-08.48.26:094][ 44]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent8EEADD084C46658039F321A00CE235C9.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-08.48.26:447][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.05.20-08.48.26:586][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.05.20-08.48.26:705][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.05.20-08.48.26:770][ 44]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-08.48.26:770][ 44]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-08.53.58:445][155]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.20-08.55.27:513][330]LogSlate: Took 0.011212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.20-08.56.48:512][808]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-08.56.49:118][808]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.05.20-08.56.49:231][808]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent43A7F4C3422CE797E4920C810E25E967.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-08.56.49:249][808]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-08.56.49:249][808]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-08.56.50:631][961]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent4B4732904D9F21FB16DF66805E97FB3C.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-08.56.50:651][961]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-08.56.50:651][961]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-08.59.48:332][335]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-08.59.48:718][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.05.20-08.59.49:051][360]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent652EDA954CCF0E293CACAFBD979DA77E.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-08.59.49:071][360]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-08.59.49:071][360]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-09.00.22:261][311]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.05.20-09.00.22:262][311]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.114
+[2020.05.20-09.00.22:265][311]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent] ([1] browsable assets)...
+[2020.05.20-09.00.22:281][311]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent]
+[2020.05.20-09.00.22:281][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent]
+[2020.05.20-09.00.22:335][311]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent_Auto2166743A04429FCAA47D02A894811B19A.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent_Auto2.uasset'
+[2020.05.20-09.00.22:336][311]LogFileHelpers: Auto-saving content packages took 0.074
+[2020.05.20-09.00.58:471][519]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-09.00.58:871][519]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.05.20-09.00.59:240][548]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent48A7A6484D98AB8F6FCAA6914196BF32.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-09.00.59:256][548]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-09.00.59:256][548]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-09.01.30:988][736]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-09.01.31:377][736]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.05.20-09.01.31:964][791]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent26BE97DC4469624C220F58BD8F6D7209.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-09.01.31:979][791]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-09.01.31:979][791]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-09.11.25:090][596]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.05.20-09.11.25:092][596]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.132
+[2020.05.20-09.11.25:092][596]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent] ([1] browsable assets)...
+[2020.05.20-09.11.25:137][596]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent]
+[2020.05.20-09.11.25:137][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent]
+[2020.05.20-09.11.25:209][596]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent_Auto30F3FE5D141B3CA47E66F3E9DD4264B1A.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent_Auto3.uasset'
+[2020.05.20-09.11.25:210][596]LogFileHelpers: Auto-saving content packages took 0.119
+[2020.05.20-09.16.47:479][209]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-09.16.47:896][209]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2020.05.20-09.16.48:458][256]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParentD3E4E7984B2FDC71DE6E5BB7F0A4BCA7.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-09.16.48:475][256]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-09.16.48:475][256]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-09.21.47:699][353]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.05.20-09.21.47:701][353]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.138
+[2020.05.20-09.21.47:703][353]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent] ([1] browsable assets)...
+[2020.05.20-09.21.47:730][353]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent]
+[2020.05.20-09.21.47:730][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent]
+[2020.05.20-09.21.47:795][353]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent_Auto48F8D4A824132BB110E4AD7A4B2435CD6.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent_Auto4.uasset'
+[2020.05.20-09.21.47:796][353]LogFileHelpers: Auto-saving content packages took 0.093
+[2020.05.20-09.30.58:366][286]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-09.30.58:781][286]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.05.20-09.31.48:007][159]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2020.05.20-09.31.48:007][159]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.137
+[2020.05.20-09.31.48:008][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent] ([1] browsable assets)...
+[2020.05.20-09.31.48:024][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent]
+[2020.05.20-09.31.48:024][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent]
+[2020.05.20-09.31.48:110][159]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent_Auto54098C8024747ED50AED64AA9E018F2B6.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent_Auto5.uasset'
+[2020.05.20-09.31.48:111][159]LogFileHelpers: Auto-saving content packages took 0.104
+[2020.05.20-09.36.18:479][883]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-09.36.18:918][883]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2020.05.20-09.36.19:603][942]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParentF0788D404C77FD92A80B00A5672A7AB5.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-09.36.19:621][942]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-09.36.19:621][942]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-09.42.37:169][161]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-09.42.37:576][161]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.05.20-09.42.38:607][258]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParentD37C52DF4ACF50352DD2A58F1313B1F1.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-09.42.38:627][258]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-09.42.38:627][258]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-09.43.48:799][106]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2020.05.20-09.43.48:801][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.125
+[2020.05.20-09.43.48:801][106]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent] ([1] browsable assets)...
+[2020.05.20-09.43.48:818][106]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent]
+[2020.05.20-09.43.48:818][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent]
+[2020.05.20-09.43.48:904][106]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent_Auto6A675E4304740275B51F907B0C505A177.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent_Auto6.uasset'
+[2020.05.20-09.43.48:905][106]LogFileHelpers: Auto-saving content packages took 0.104
+[2020.05.20-09.46.23:580][615]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::NearlyEqual_FloatFloat' [The specified module could not be found.]
+[2020.05.20-09.50.01:233][412]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-09.50.01:648][412]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.05.20-09.50.02:109][436]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent27398923445FDBBF0EC032916950FFA3.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-09.50.02:130][436]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-09.50.02:130][436]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-10.09.10:872][184]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.05.20-10.09.15:952][184]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.20-10.09.43:934][377]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_BlockButton.BP_BlockButton
+[2020.05.20-10.10.22:772][325]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-10.10.23:217][325]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.05.20-10.10.23:867][364]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent50CF25444A1553CF2CCC0A85F6494B10.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-10.10.23:895][364]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-10.10.23:895][364]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-10.11.22:646][964]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-10.11.23:072][964]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2020.05.20-10.11.25:614][186]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent0D4508A24456E6267475049F48BADB4E.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-10.11.25:635][186]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-10.11.25:635][186]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-10.12.00:348][740]BlueprintLog: New page: Compile BP_BlockButton
+[2020.05.20-10.12.00:751][740]LogUObjectHash: Compacting FUObjectHashTables data took   7.12ms
+[2020.05.20-10.12.00:919][747]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_BlockButton8160232C4F230CC8712E1DAA2EB347A4.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_BlockButton.uasset'
+[2020.05.20-10.12.00:945][747]AssetCheck: New page: Asset Save: BP_BlockButton
+[2020.05.20-10.12.00:945][747]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_BlockButton.BP_BlockButton
+[2020.05.20-10.12.50:326][703]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.05.20-10.12.50:328][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.127
+[2020.05.20-10.12.50:328][703]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ToysGame/BluePrints/MenuBP/BP_BlockButton] ([1] browsable assets)...
+[2020.05.20-10.12.50:345][703]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_BlockButton.BP_BlockButton]
+[2020.05.20-10.12.50:345][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/ToysGame/BluePrints/MenuBP/BP_BlockButton]
+[2020.05.20-10.12.50:405][703]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_BlockButton_Auto7C6C7C19F461D0B12414BC89115510992.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/ToysGame/BluePrints/MenuBP/BP_BlockButton_Auto7.uasset'
+[2020.05.20-10.12.50:408][703]LogFileHelpers: Auto-saving content packages took 0.080
+[2020.05.20-10.16.53:680][131]BlueprintLog: New page: Compile BP_BlockButton
+[2020.05.20-10.16.54:077][131]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.05.20-10.16.54:409][157]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_BlockButton0AB0BAF24D5E21BC7947AF8D24B51F55.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_BlockButton.uasset'
+[2020.05.20-10.16.54:428][157]AssetCheck: New page: Asset Save: BP_BlockButton
+[2020.05.20-10.16.54:428][157]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_BlockButton.BP_BlockButton
+[2020.05.20-10.18.50:975][281]BlueprintLog: New page: Compile BP_ButtonParent
+[2020.05.20-10.18.51:418][281]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2020.05.20-10.18.51:714][288]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_ButtonParent44B03F1149C78B207BE49186C6A1A2DC.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_ButtonParent.uasset'
+[2020.05.20-10.18.51:731][288]AssetCheck: New page: Asset Save: BP_ButtonParent
+[2020.05.20-10.18.51:732][288]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_ButtonParent.BP_ButtonParent
+[2020.05.20-10.18.54:424][560]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_BlockButton10DE9A954E388E216875D98B7E82E62F.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_BlockButton.uasset'
+[2020.05.20-10.18.54:439][560]AssetCheck: New page: Asset Save: BP_BlockButton
+[2020.05.20-10.18.54:439][560]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_BlockButton.BP_BlockButton
+[2020.05.20-10.21.50:550][522]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.05.20-10.21.51:553][522]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.20-10.22.03:302][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_WristUI.BP_WristUI
+[2020.05.20-10.22.42:706][993]BlueprintLog: New page: Compile BP_WristUI
+[2020.05.20-10.22.43:129][993]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.05.20-10.22.43:357][  4]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_WristUI99DE41284264CA912E87E4ADE65E073A.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_WristUI.uasset'
+[2020.05.20-10.22.43:376][  4]AssetCheck: New page: Asset Save: BP_WristUI
+[2020.05.20-10.22.43:376][  4]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_WristUI.BP_WristUI
+[2020.05.20-10.22.53:862][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.20-10.23.02:717][285]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ToysGame/Material/M_WristUI.M_WristUI
+[2020.05.20-10.23.02:729][285]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.23.03:190][285]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.23.03:213][285]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.23.03:234][285]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.05.20-10.23.03:234][285]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.05.20-10.23.03:234][285]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.20-10.23.03:234][285]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.05.20-10.23.04:791][413]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.05.20-10.23.12:472][708]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.05.20-10.23.12:493][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.05.20-10.23.12:656][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.05.20-10.23.13:393][749]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.20-10.23.18:814][  2]MaterialEditorStats: Base pass shader: 778 instructions
+[2020.05.20-10.23.18:814][  2]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 843 instructions
+[2020.05.20-10.23.18:814][  2]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2020.05.20-10.23.18:814][  2]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.20-10.23.29:031][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.05.20-10.23.29:033][ 32]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.130
+[2020.05.20-10.23.29:034][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ToysGame/Material/M_WristUI] ([1] browsable assets)...
+[2020.05.20-10.23.29:090][ 32]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ToysGame/Material/M_WristUI.M_WristUI]
+[2020.05.20-10.23.29:090][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/ToysGame/Material/M_WristUI]
+[2020.05.20-10.23.29:114][ 32]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/M_WristUI_Auto8EF10708B45621E414015F9ADFFFC9772.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/ToysGame/Material/M_WristUI_Auto8.uasset'
+[2020.05.20-10.23.29:116][ 32]LogFileHelpers: Auto-saving content packages took 0.083
+[2020.05.20-10.23.45:487][477]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.23.45:509][478]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.05.20-10.23.45:509][478]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.05.20-10.23.45:509][478]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.05.20-10.23.45:509][478]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.05.20-10.23.46:406][562]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.05.20-10.23.46:732][590]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.23.46:816][590]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.23.46:849][590]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.23.54:570][919]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.05.20-10.23.54:601][921]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.05.20-10.23.54:820][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.05.20-10.23.54:932][946]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.05.20-10.23.54:954][948]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.05.20-10.23.55:376][981]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.20-10.23.55:462][988]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.05.20-10.23.55:650][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.05.20-10.23.56:576][ 47]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.05.20-10.23.57:071][ 82]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.05.20-10.23.58:630][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.05.20-10.23.59:054][201]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.20-10.23.59:855][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.20-10.23.59:972][272]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.20-10.24.00:021][277]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.05.20-10.24.00:335][307]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.05.20-10.24.01:259][374]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.05.20-10.24.01:400][385]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.05.20-10.24.02:813][482]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.05.20-10.24.03:102][501]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.05.20-10.24.03:887][564]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.20-10.24.04:216][592]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.20-10.24.12:682][565]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.12:706][565]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.12:757][566]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.05.20-10.24.12:757][566]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.05.20-10.24.12:757][566]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.05.20-10.24.12:757][566]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.05.20-10.24.12:994][591]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.05.20-10.24.13:016][593]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.20-10.24.13:183][609]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.05.20-10.24.13:200][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.05.20-10.24.14:120][680]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.05.20-10.24.14:770][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.05.20-10.24.16:626][843]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.05.20-10.24.16:820][858]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.20-10.24.17:728][926]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.17:750][926]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.05.20-10.24.17:750][926]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.05.20-10.24.17:757][926]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.18:034][951]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.05.20-10.24.18:067][954]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.05.20-10.24.18:126][960]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.05.20-10.24.18:271][975]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.05.20-10.24.18:300][977]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.05.20-10.24.18:327][980]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.05.20-10.24.18:515][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.05.20-10.24.18:685][ 17]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.05.20-10.24.19:684][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.05.20-10.24.20:265][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.05.20-10.24.22:218][183]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.05.20-10.24.22:441][193]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.05.20-10.24.23:541][243]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.20-10.24.23:736][253]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.05.20-10.24.23:938][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.05.20-10.24.24:219][280]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.05.20-10.24.25:111][322]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.05.20-10.24.25:523][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.05.20-10.24.25:861][361]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.26:904][414]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.05.20-10.24.27:154][430]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.05.20-10.24.27:174][432]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.05.20-10.24.27:451][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.05.20-10.24.27:639][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.05.20-10.24.27:869][490]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.05.20-10.24.28:462][535]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.05.20-10.24.29:003][569]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.05.20-10.24.29:800][634]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.05.20-10.24.29:884][642]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.05.20-10.24.30:708][708]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.05.20-10.24.31:105][737]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.05.20-10.24.31:768][786]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.31:845][786]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.31:931][787]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.05.20-10.24.31:979][788]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.05.20-10.24.32:122][790]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.05.20-10.24.32:227][793]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.05.20-10.24.32:453][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.05.20-10.24.32:762][832]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.05.20-10.24.32:848][838]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.05.20-10.24.32:952][848]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.05.20-10.24.33:051][859]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.05.20-10.24.34:036][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.05.20-10.24.34:573][961]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.05.20-10.24.34:580][961]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.36:464][ 52]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.05.20-10.24.36:663][ 64]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.05.20-10.24.36:734][ 70]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.05.20-10.24.36:919][ 87]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.05.20-10.24.37:164][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.05.20-10.24.37:363][121]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.05.20-10.24.37:430][128]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.05.20-10.24.37:943][167]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.05.20-10.24.38:760][229]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.05.20-10.24.38:795][232]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.05.20-10.24.40:275][340]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.05.20-10.24.40:618][364]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.05.20-10.24.41:419][425]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.05.20-10.24.41:663][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.05.20-10.24.41:870][462]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.05.20-10.24.41:960][471]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.05.20-10.24.42:888][537]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.05.20-10.24.43:266][570]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.05.20-10.24.44:327][641]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.05.20-10.24.44:699][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.05.20-10.24.45:505][729]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.05.20-10.24.45:714][747]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.05.20-10.24.46:011][772]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.05.20-10.24.46:369][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.20-10.24.46:691][821]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.05.20-10.24.47:526][883]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.47:549][883]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.05.20-10.24.47:549][883]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.05.20-10.24.47:556][883]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.05.20-10.24.47:573][883]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.47:615][883]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.05.20-10.24.47:830][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.05.20-10.24.47:844][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.05.20-10.24.48:138][919]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.05.20-10.24.48:152][920]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.05.20-10.24.48:282][932]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.05.20-10.24.48:607][958]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.05.20-10.24.48:635][961]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.05.20-10.24.48:651][962]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.05.20-10.24.49:533][ 21]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.05.20-10.24.50:141][ 66]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.20-10.24.51:865][166]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.05.20-10.24.52:025][177]LogMaterialEditor: Saving and Compiling material M_WristUI
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.05.20-10.24.57:035][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.05.20-10.24.57:061][177]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.57:179][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.20-10.24.57:235][177]LogMaterial: Display: Missing cached shader map for material M_WristUI, compiling. 
+[2020.05.20-10.24.57:421][177]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.05.20-10.24.57:446][177]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.20-10.25.06:156][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 53
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2020.05.20-10.25.06:157][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.05.20-10.25.06:158][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.05.20-10.25.06:158][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2020.05.20-10.25.06:158][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.05.20-10.25.06:158][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.05.20-10.25.06:158][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.05.20-10.25.06:174][177]TextureStreamingBuild: Display: Compiling optional shaders took 8.750 seconds.
+[2020.05.20-10.25.06:320][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.05.20-10.25.17:336][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.05.20-10.25.17:337][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.05.20-10.25.17:337][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.05.20-10.25.17:337][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.05.20-10.25.17:337][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.05.20-10.25.17:337][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.05.20-10.25.17:337][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.05.20-10.25.17:483][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToysGame/Material/M_WristUI" FILE="../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_WristUI.uasset" SILENT=true
+[2020.05.20-10.25.17:519][177]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/M_WristUI9965BC3748A9D3469A8B1D869CDC5B24.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_WristUI.uasset'
+[2020.05.20-10.25.17:571][177]AssetCheck: New page: Asset Save: M_WristUI
+[2020.05.20-10.25.17:571][177]LogContentValidation: Display: Validating Material /Game/ToysGame/Material/M_WristUI.M_WristUI
+[2020.05.20-10.25.17:574][177]MaterialEditorStats: Base pass shader: 468 instructions
+[2020.05.20-10.25.17:574][177]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 477 instructions
+[2020.05.20-10.25.17:574][177]MaterialEditorStats: Base pass vertex shader: 233 instructions
+[2020.05.20-10.25.17:574][177]MaterialEditorStats: Texture samplers: 4/16
+[2020.05.20-10.26.05:527][203]LogMaterialEditor: Saving and Compiling material M_WristUI
+[2020.05.20-10.26.05:545][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToysGame/Material/M_WristUI" FILE="../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_WristUI.uasset" SILENT=true
+[2020.05.20-10.26.05:591][203]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/M_WristUI931518E34B171277952F5589816013B3.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/Material/M_WristUI.uasset'
+[2020.05.20-10.26.05:609][203]AssetCheck: New page: Asset Save: M_WristUI
+[2020.05.20-10.26.05:610][203]LogContentValidation: Display: Validating Material /Game/ToysGame/Material/M_WristUI.M_WristUI
+[2020.05.20-10.28.25:487][  0]LogSlate: Window 'BP_WristUI' being destroyed
+[2020.05.20-10.29.17:922][556]BlueprintLog: New page: Compile BP_WristUI
+[2020.05.20-10.29.18:503][556]LogUObjectHash: Compacting FUObjectHashTables data took   9.27ms
+[2020.05.20-10.29.18:948][581]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_WristUI5B47E61E4BF756D7824DD2A2FF53211D.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_WristUI.uasset'
+[2020.05.20-10.29.18:966][581]AssetCheck: New page: Asset Save: BP_WristUI
+[2020.05.20-10.29.18:966][581]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_WristUI.BP_WristUI
+[2020.05.20-10.30.37:516][560]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_WristUI9433D5324DE71E4439DB288B9011CF80.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/BluePrints/MenuBP/BP_WristUI.uasset'
+[2020.05.20-10.30.37:535][560]AssetCheck: New page: Asset Save: BP_WristUI
+[2020.05.20-10.30.37:536][560]LogContentValidation: Display: Validating Blueprint /Game/ToysGame/BluePrints/MenuBP/BP_WristUI.BP_WristUI
+[2020.05.20-10.30.37:931][591]BlueprintLog: New page: Compile BP_WristUI
+[2020.05.20-10.30.38:430][591]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2020.05.20-10.31.33:017][736]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.20-10.35.25:300][516]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2020.05.20-10.35.25:303][516]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.119
+[2020.05.20-10.35.25:304][516]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2020.05.20-10.35.25:327][516]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2020.05.20-10.35.25:327][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2020.05.20-10.35.25:569][516]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_MotionController_Auto92FCF792D47A501160BA29EB4F490DB5E.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto9.uasset'
+[2020.05.20-10.35.25:571][516]LogFileHelpers: Auto-saving content packages took 0.268
+[2020.05.20-10.39.14:521][578]BlueprintLog: New page: Compile BP_MotionController
+[2020.05.20-10.39.15:103][578]LogUObjectHash: Compacting FUObjectHashTables data took   9.15ms
+[2020.05.20-10.39.15:888][619]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_MotionController6F56748848A867BA31A6528FB95743D3.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2020.05.20-10.39.15:911][619]AssetCheck: New page: Asset Save: BP_MotionController
+[2020.05.20-10.39.15:911][619]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2020.05.20-10.39.22:625][813]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.05.20-10.46.16:580][858]LogUObjectHash: Compacting FUObjectHashTables data took   9.34ms
+[2020.05.20-10.46.17:037][858]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/MainMenu_Auto0D24096A74CF163B7D1B4399AF60A91C7.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/ToysGame/MainMenu_Auto0.umap'
+[2020.05.20-10.46.17:044][858]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.600
+[2020.05.20-10.46.17:044][858]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.600
+[2020.05.20-10.46.17:044][858]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.05.20-10.46.17:044][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.05.20-10.46.17:335][858]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/MotionControllerPawn_Auto0FDA2D8D34F51FA551AD6B5A1FF559F0D.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto0.uasset'
+[2020.05.20-10.46.17:337][858]LogFileHelpers: Auto-saving content packages took 0.293
+[2020.05.20-10.56.18:238][734]LogUObjectHash: Compacting FUObjectHashTables data took   8.98ms
+[2020.05.20-10.56.18:693][734]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/MainMenu_Auto1DE184E7547CC11802E54BAB1EA9CD5C6.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/ToysGame/MainMenu_Auto1.umap'
+[2020.05.20-10.56.18:696][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ToysGame/MainMenu' took 0.596
+[2020.05.20-10.56.18:696][734]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.596
+[2020.05.20-10.56.18:696][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.05.20-10.56.18:696][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.05.20-10.56.18:982][734]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/MotionControllerPawn_Auto195048DB8429533D9DC578B831ED47948.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto1.uasset'
+[2020.05.20-10.56.18:984][734]LogFileHelpers: Auto-saving content packages took 0.288
+[2020.05.20-11.01.47:979][913]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.05.20-11.01.48:583][913]LogUObjectHash: Compacting FUObjectHashTables data took   9.19ms
+[2020.05.20-11.01.49:682][952]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/MotionControllerPawn74DB8CEC4E1AB32886978DB5434BA33A.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.05.20-11.01.49:711][952]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.05.20-11.01.49:711][952]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.05.20-11.02.12:189][168]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
+[2020.05.20-11.02.12:639][168]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/MainMenuD48AEBB5460D8D218B55C4AD9D993976.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu.umap'
+[2020.05.20-11.02.12:830][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToysGame/MainMenu_BuiltData" FILE="../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset" SILENT=true
+[2020.05.20-11.02.12:891][168]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/MainMenu_BuiltDataB59B5FE6466FFFDAF49702B8E96966AD.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset'
+[2020.05.20-11.02.12:924][168]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.20-11.02.12:924][168]LogContentValidation: Display: Validating World /Game/ToysGame/MainMenu.MainMenu
+[2020.05.20-11.02.12:924][168]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ToysGame/MainMenu_BuiltData.MainMenu_BuiltData
+[2020.05.20-11.02.36:486][950]BlueprintLog: New page: Compile BP_MotionController
+[2020.05.20-11.02.37:183][950]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2020.05.20-11.02.37:982][981]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/BP_MotionControllerE4CEDE214F4D32C59C1E18B8B38B3929.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2020.05.20-11.02.38:002][981]AssetCheck: New page: Asset Save: BP_MotionController
+[2020.05.20-11.02.38:002][981]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2020.05.20-11.02.40:202][148]LogUObjectHash: Compacting FUObjectHashTables data took   8.90ms
+[2020.05.20-11.02.40:633][148]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/MainMenu2477FD794C4C688E4170FD941E7612CA.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu.umap'
+[2020.05.20-11.02.40:690][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ToysGame/MainMenu_BuiltData" FILE="../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset" SILENT=true
+[2020.05.20-11.02.40:732][148]LogSavePackage: Moving '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Saved/MainMenu_BuiltData16440D164425D5351DAC94989190AC8E.tmp' to '../../../../../../Users/Fenikkel/Documents/GitHub projects/ToysGame/ToysGame/Content/ToysGame/MainMenu_BuiltData.uasset'
+[2020.05.20-11.02.40:758][148]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.20-11.02.40:758][148]LogContentValidation: Display: Validating World /Game/ToysGame/MainMenu.MainMenu
+[2020.05.20-11.02.40:758][148]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ToysGame/MainMenu_BuiltData.MainMenu_BuiltData
+[2020.05.20-11.05.29:207][514]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2020.05.20-11.05.29:332][514]LogSlate: Window 'ToysGame - Unreal Editor' being destroyed
+[2020.05.20-11.05.29:335][514]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.20-11.05.29:674][514]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.29:674][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-11.05.29:861][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.20-11.05.29:861][514]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.29:861][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-11.05.30:121][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.20-11.05.30:122][514]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.30:122][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-11.05.30:281][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.20-11.05.30:281][514]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.30:281][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-11.05.30:519][514]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.30:520][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-11.05.30:610][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.20-11.05.30:610][514]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.30:610][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.20-11.05.30:824][515]Cmd: QUIT_EDITOR
+[2020.05.20-11.05.30:824][515]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.20-11.05.30:847][515]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.20-11.05.30:848][515]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.20-11.05.32:172][515]LogExit: Preparing to exit.
+[2020.05.20-11.05.37:537][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:537][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:537][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:537][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:537][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:537][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:537][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:537][515]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:541][515]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:543][515]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:545][515]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:546][515]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:548][515]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:549][515]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:552][515]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:555][515]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:557][515]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:559][515]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:561][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:561][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:561][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:561][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:561][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:561][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:561][515]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.20-11.05.37:561][515]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:562][515]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:564][515]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.37:566][515]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.20-11.05.38:869][515]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.20-11.05.41:399][515]LogExit: Editor shut down
+[2020.05.20-11.05.41:401][515]LogExit: Transaction tracking system shut down
+[2020.05.20-11.05.43:073][515]LogExit: Object subsystem successfully closed.
+[2020.05.20-11.05.43:143][515]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.20-11.05.43:362][515]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (728)
+[2020.05.20-11.05.43:362][515]LogModuleManager: Shutting down and abandoning module BlueprintGraph (726)
+[2020.05.20-11.05.43:362][515]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (724)
+[2020.05.20-11.05.43:362][515]LogModuleManager: Shutting down and abandoning module LauncherServices (722)
+[2020.05.20-11.05.43:362][515]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (720)
+[2020.05.20-11.05.43:362][515]LogModuleManager: Shutting down and abandoning module SceneOutliner (718)
+[2020.05.20-11.05.43:362][515]LogModuleManager: Shutting down and abandoning module AddContentDialog (716)
+[2020.05.20-11.05.43:376][515]LogModuleManager: Shutting down and abandoning module WidgetCarousel (715)
+[2020.05.20-11.05.43:376][515]LogModuleManager: Shutting down and abandoning module EditorWidgets (712)
+[2020.05.20-11.05.43:376][515]LogModuleManager: Shutting down and abandoning module CollectionManager (710)
+[2020.05.20-11.05.43:379][515]LogModuleManager: Shutting down and abandoning module StatsViewer (708)
+[2020.05.20-11.05.43:381][515]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (706)
+[2020.05.20-11.05.43:382][515]LogModuleManager: Shutting down and abandoning module FoliageEdit (704)
+[2020.05.20-11.05.43:384][515]LogModuleManager: Shutting down and abandoning module LandscapeEditor (702)
+[2020.05.20-11.05.43:391][515]LogModuleManager: Shutting down and abandoning module MeshPaintMode (700)
+[2020.05.20-11.05.43:391][515]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (698)
+[2020.05.20-11.05.43:392][515]LogModuleManager: Shutting down and abandoning module ActorPickerMode (696)
+[2020.05.20-11.05.43:392][515]LogModuleManager: Shutting down and abandoning module GeometryMode (694)
+[2020.05.20-11.05.43:392][515]LogModuleManager: Shutting down and abandoning module TextureAlignMode (692)
+[2020.05.20-11.05.43:392][515]LogModuleManager: Shutting down and abandoning module BspMode (690)
+[2020.05.20-11.05.43:392][515]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (688)
+[2020.05.20-11.05.43:395][515]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (686)
+[2020.05.20-11.05.43:396][515]LogModuleManager: Shutting down and abandoning module AutomationWorker (684)
+[2020.05.20-11.05.43:396][515]LogModuleManager: Shutting down and abandoning module OculusMR (682)
+[2020.05.20-11.05.43:397][515]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (680)
+[2020.05.20-11.05.43:398][515]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (678)
+[2020.05.20-11.05.43:400][515]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (676)
+[2020.05.20-11.05.43:408][515]LogModuleManager: Shutting down and abandoning module PlacementMode (675)
+[2020.05.20-11.05.43:408][515]LogModuleManager: Shutting down and abandoning module MaterialEditor (674)
+[2020.05.20-11.05.43:408][515]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (670)
+[2020.05.20-11.05.43:411][515]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (668)
+[2020.05.20-11.05.43:411][515]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (666)
+[2020.05.20-11.05.43:412][515]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (664)
+[2020.05.20-11.05.43:412][515]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (662)
+[2020.05.20-11.05.43:412][515]LogModuleManager: Shutting down and abandoning module WebMMedia (660)
+[2020.05.20-11.05.43:413][515]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (658)
+[2020.05.20-11.05.43:421][515]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (656)
+[2020.05.20-11.05.43:425][515]LogModuleManager: Shutting down and abandoning module SequenceRecorder (655)
+[2020.05.20-11.05.43:425][515]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (652)
+[2020.05.20-11.05.43:425][515]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (650)
+[2020.05.20-11.05.43:425][515]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (648)
+[2020.05.20-11.05.43:426][515]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (646)
+[2020.05.20-11.05.43:426][515]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (644)
+[2020.05.20-11.05.43:426][515]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (642)
+[2020.05.20-11.05.43:426][515]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (640)
+[2020.05.20-11.05.43:426][515]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (638)
+[2020.05.20-11.05.43:426][515]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (636)
+[2020.05.20-11.05.43:426][515]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (634)
+[2020.05.20-11.05.43:427][515]LogModuleManager: Shutting down and abandoning module CharacterAI (632)
+[2020.05.20-11.05.43:427][515]LogModuleManager: Shutting down and abandoning module SmartSnapping (630)
+[2020.05.20-11.05.43:427][515]LogModuleManager: Shutting down and abandoning module SessionServices (628)
+[2020.05.20-11.05.43:427][515]LogModuleManager: Shutting down and abandoning module MeshPaint (626)
+[2020.05.20-11.05.43:432][515]LogModuleManager: Shutting down and abandoning module ViewportSnapping (624)
+[2020.05.20-11.05.43:432][515]LogModuleManager: Shutting down and abandoning module ViewportInteraction (622)
+[2020.05.20-11.05.43:432][515]LogModuleManager: Shutting down and abandoning module ClothPainter (620)
+[2020.05.20-11.05.43:436][515]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (619)
+[2020.05.20-11.05.43:440][515]LogModuleManager: Shutting down and abandoning module LogVisualizer (616)
+[2020.05.20-11.05.43:444][515]LogModuleManager: Shutting down and abandoning module IntroTutorials (614)
+[2020.05.20-11.05.43:446][515]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (613)
+[2020.05.20-11.05.43:446][515]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (610)
+[2020.05.20-11.05.43:446][515]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (608)
+[2020.05.20-11.05.43:448][515]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (606)
+[2020.05.20-11.05.43:448][515]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (605)
+[2020.05.20-11.05.43:993][515]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (602)
+[2020.05.20-11.05.43:993][515]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (600)
+[2020.05.20-11.05.43:993][515]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (598)
+[2020.05.20-11.05.43:993][515]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (596)
+[2020.05.20-11.05.43:994][515]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (594)
+[2020.05.20-11.05.43:994][515]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (592)
+[2020.05.20-11.05.43:994][515]LogModuleManager: Shutting down and abandoning module InputBindingEditor (590)
+[2020.05.20-11.05.43:996][515]LogModuleManager: Shutting down and abandoning module MergeActors (588)
+[2020.05.20-11.05.43:999][515]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (586)
+[2020.05.20-11.05.44:001][515]LogModuleManager: Shutting down and abandoning module LocalizationService (585)
+[2020.05.20-11.05.44:003][515]LogModuleManager: Shutting down and abandoning module HardwareTargeting (582)
+[2020.05.20-11.05.44:003][515]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (580)
+[2020.05.20-11.05.44:003][515]LogModuleManager: Shutting down and abandoning module UndoHistory (578)
+[2020.05.20-11.05.44:004][515]LogModuleManager: Shutting down and abandoning module XmlParser (576)
+[2020.05.20-11.05.44:005][515]LogModuleManager: Shutting down and abandoning module Blutility (574)
+[2020.05.20-11.05.44:005][515]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (572)
+[2020.05.20-11.05.44:005][515]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (571)
+[2020.05.20-11.05.44:006][515]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (568)
+[2020.05.20-11.05.44:006][515]LogModuleManager: Shutting down and abandoning module SettingsEditor (566)
+[2020.05.20-11.05.44:009][515]LogModuleManager: Shutting down and abandoning module ProjectLauncher (564)
+[2020.05.20-11.05.44:009][515]LogModuleManager: Shutting down and abandoning module SessionFrontend (562)
+[2020.05.20-11.05.44:009][515]LogModuleManager: Shutting down and abandoning module ProfilerClient (560)
+[2020.05.20-11.05.44:012][515]LogModuleManager: Shutting down and abandoning module DeviceManager (558)
+[2020.05.20-11.05.44:013][515]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (557)
+[2020.05.20-11.05.44:046][515]LogModuleManager: Shutting down and abandoning module AutomationController (554)
+[2020.05.20-11.05.44:048][515]LogModuleManager: Shutting down and abandoning module AutomationWindow (552)
+[2020.05.20-11.05.44:050][515]LogModuleManager: Shutting down and abandoning module Layers (550)
+[2020.05.20-11.05.44:056][515]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (548)
+[2020.05.20-11.05.44:056][515]LogModuleManager: Shutting down and abandoning module DetailCustomizations (546)
+[2020.05.20-11.05.44:056][515]LogModuleManager: Shutting down and abandoning module PackagesDialog (544)
+[2020.05.20-11.05.44:058][515]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (542)
+[2020.05.20-11.05.44:063][515]LogModuleManager: Shutting down and abandoning module Persona (540)
+[2020.05.20-11.05.44:067][515]LogModuleManager: Shutting down and abandoning module AnimGraph (539)
+[2020.05.20-11.05.44:068][515]LogModuleManager: Shutting down and abandoning module Kismet (536)
+[2020.05.20-11.05.44:114][515]LogModuleManager: Shutting down and abandoning module KismetWidgets (535)
+[2020.05.20-11.05.44:114][515]LogModuleManager: Shutting down and abandoning module GraphEditor (532)
+[2020.05.20-11.05.44:114][515]LogModuleManager: Shutting down and abandoning module StructViewer (530)
+[2020.05.20-11.05.44:114][515]LogModuleManager: Shutting down and abandoning module ClassViewer (528)
+[2020.05.20-11.05.44:117][515]LogModuleManager: Shutting down and abandoning module Toolbox (526)
+[2020.05.20-11.05.44:117][515]LogModuleManager: Shutting down and abandoning module ModuleUI (524)
+[2020.05.20-11.05.44:139][515]LogModuleManager: Shutting down and abandoning module OutputLog (522)
+[2020.05.20-11.05.44:140][515]LogModuleManager: Shutting down and abandoning module GammaUI (520)
+[2020.05.20-11.05.44:141][515]LogModuleManager: Shutting down and abandoning module Documentation (518)
+[2020.05.20-11.05.44:143][515]LogModuleManager: Shutting down and abandoning module ToolMenus (516)
+[2020.05.20-11.05.44:143][515]LogModuleManager: Shutting down and abandoning module LiveCoding (514)
+[2020.05.20-11.05.44:145][515]LogModuleManager: Shutting down and abandoning module LevelSequence (512)
+[2020.05.20-11.05.44:145][515]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (510)
+[2020.05.20-11.05.44:145][515]LogModuleManager: Shutting down and abandoning module MovieScene (508)
+[2020.05.20-11.05.44:146][515]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (506)
+[2020.05.20-11.05.44:147][515]LogModuleManager: Shutting down and abandoning module LauncherPlatform (504)
+[2020.05.20-11.05.44:147][515]LogModuleManager: Shutting down and abandoning module AnalyticsET (502)
+[2020.05.20-11.05.44:147][515]LogModuleManager: Shutting down and abandoning module PortalServices (500)
+[2020.05.20-11.05.44:147][515]LogModuleManager: Shutting down and abandoning module PortalRpc (498)
+[2020.05.20-11.05.44:147][515]LogModuleManager: Shutting down and abandoning module MessagingRpc (496)
+[2020.05.20-11.05.44:147][515]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (494)
+[2020.05.20-11.05.44:147][515]LogModuleManager: Shutting down and abandoning module AIModule (492)
+[2020.05.20-11.05.44:149][515]LogModuleManager: Shutting down and abandoning module GameplayDebugger (491)
+[2020.05.20-11.05.44:150][515]LogModuleManager: Shutting down and abandoning module AITestSuite (489)
+[2020.05.20-11.05.44:150][515]LogModuleManager: Shutting down and abandoning module NavigationSystem (487)
+[2020.05.20-11.05.44:150][515]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (484)
+[2020.05.20-11.05.44:155][515]LogModuleManager: Shutting down and abandoning module ProfilerService (482)
+[2020.05.20-11.05.44:245][515]LogModuleManager: Shutting down and abandoning module TaskGraph (480)
+[2020.05.20-11.05.44:249][515]LogModuleManager: Shutting down and abandoning module ScreenshotTools (478)
+[2020.05.20-11.05.44:249][515]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (476)
+[2020.05.20-11.05.44:249][515]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (474)
+[2020.05.20-11.05.44:249][515]LogModuleManager: Shutting down and abandoning module OculusEditor (472)
+[2020.05.20-11.05.44:251][515]LogModuleManager: Shutting down and abandoning module OculusInput (470)
+[2020.05.20-11.05.44:251][515]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (468)
+[2020.05.20-11.05.44:251][515]LogModuleManager: Shutting down and abandoning module EditableMesh (466)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (464)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module CableComponent (462)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module AudioCapture (460)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (459)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module AssetTags (456)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (454)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (452)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module AppleImageUtils (450)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module AndroidPermission (448)
+[2020.05.20-11.05.44:254][515]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (446)
+[2020.05.20-11.05.44:256][515]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (444)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module MediaCompositing (442)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module ImgMedia (440)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (438)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (436)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (434)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (432)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (431)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (428)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (426)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (424)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (422)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module DataprepLibraries (420)
+[2020.05.20-11.05.44:262][515]LogModuleManager: Shutting down and abandoning module DataprepCore (418)
+[2020.05.20-11.05.44:264][515]LogModuleManager: Shutting down and abandoning module DataprepEditor (416)
+[2020.05.20-11.05.44:270][515]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (414)
+[2020.05.20-11.05.44:270][515]LogModuleManager: Shutting down and abandoning module BlastCore (412)
+[2020.05.20-11.05.44:270][515]LogModuleManager: Shutting down and abandoning module BlastAuthoring (410)
+[2020.05.20-11.05.44:270][515]LogModuleManager: Shutting down and abandoning module BackChannel (408)
+[2020.05.20-11.05.44:271][515]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (406)
+[2020.05.20-11.05.44:271][515]LogModuleManager: Shutting down and abandoning module AutomationUtils (404)
+[2020.05.20-11.05.44:271][515]LogModuleManager: Shutting down and abandoning module AlembicImporter (402)
+[2020.05.20-11.05.44:272][515]LogModuleManager: Shutting down and abandoning module AlembicLibrary (401)
+[2020.05.20-11.05.44:273][515]LogModuleManager: Shutting down and abandoning module GeometryCache (400)
+[2020.05.20-11.05.44:273][515]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (399)
+[2020.05.20-11.05.44:273][515]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (394)
+[2020.05.20-11.05.44:274][515]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (392)
+[2020.05.20-11.05.44:274][515]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (391)
+[2020.05.20-11.05.44:278][515]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (390)
+[2020.05.20-11.05.44:278][515]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (387)
+[2020.05.20-11.05.44:279][515]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.05.20-11.05.44:280][515]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.05.20-11.05.44:280][515]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.05.20-11.05.44:289][515]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.05.20-11.05.44:292][515]LogModuleManager: Shutting down and abandoning module PolygonModeling (376)
+[2020.05.20-11.05.44:292][515]LogModuleManager: Shutting down and abandoning module MeshEditor (374)
+[2020.05.20-11.05.44:293][515]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (372)
+[2020.05.20-11.05.44:294][515]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (370)
+[2020.05.20-11.05.44:294][515]LogModuleManager: Shutting down and abandoning module CurveEditorTools (368)
+[2020.05.20-11.05.44:296][515]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (366)
+[2020.05.20-11.05.44:296][515]LogModuleManager: Shutting down and abandoning module CryptoKeys (364)
+[2020.05.20-11.05.44:296][515]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (362)
+[2020.05.20-11.05.44:298][515]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (360)
+[2020.05.20-11.05.44:298][515]LogModuleManager: Shutting down and abandoning module UObjectPlugin (358)
+[2020.05.20-11.05.44:298][515]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (356)
+[2020.05.20-11.05.44:302][515]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (354)
+[2020.05.20-11.05.44:306][515]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (352)
+[2020.05.20-11.05.44:312][515]LogModuleManager: Shutting down and abandoning module GitSourceControl (350)
+[2020.05.20-11.05.44:316][515]LogModuleManager: Shutting down and abandoning module SourceControl (349)
+[2020.05.20-11.05.44:316][515]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (346)
+[2020.05.20-11.05.44:317][515]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (344)
+[2020.05.20-11.05.44:317][515]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (342)
+[2020.05.20-11.05.44:317][515]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (340)
+[2020.05.20-11.05.44:317][515]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (338)
+[2020.05.20-11.05.44:317][515]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (336)
+[2020.05.20-11.05.44:318][515]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (334)
+[2020.05.20-11.05.44:318][515]LogModuleManager: Shutting down and abandoning module Paper2DEditor (332)
+[2020.05.20-11.05.44:324][515]LogModuleManager: Shutting down and abandoning module SignificanceManager (330)
+[2020.05.20-11.05.44:324][515]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (328)
+[2020.05.20-11.05.44:324][515]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (326)
+[2020.05.20-11.05.44:324][515]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (322)
+[2020.05.20-11.05.44:324][515]LogModuleManager: Shutting down and abandoning module ActorSequence (320)
+[2020.05.20-11.05.44:324][515]LogModuleManager: Shutting down and abandoning module UdpMessaging (318)
+[2020.05.20-11.05.44:425][515]LogModuleManager: Shutting down and abandoning module TcpMessaging (316)
+[2020.05.20-11.05.44:538][515]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (314)
+[2020.05.20-11.05.44:539][515]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (312)
+[2020.05.20-11.05.44:541][515]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.20-11.05.44:542][515]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (310)
+[2020.05.20-11.05.44:542][515]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (308)
+[2020.05.20-11.05.44:542][515]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (306)
+[2020.05.20-11.05.44:542][515]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (304)
+[2020.05.20-11.05.44:546][515]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (302)
+[2020.05.20-11.05.44:551][515]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (300)
+[2020.05.20-11.05.44:551][515]LogModuleManager: Shutting down and abandoning module MagicLeapController (298)
+[2020.05.20-11.05.44:553][515]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.20-11.05.44:554][515]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (296)
+[2020.05.20-11.05.44:554][515]LogModuleManager: Shutting down and abandoning module MagicLeapAR (294)
+[2020.05.20-11.05.44:554][515]LogModuleManager: Shutting down and abandoning module AugmentedReality (293)
+[2020.05.20-11.05.44:554][515]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (290)
+[2020.05.20-11.05.44:554][515]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (288)
+[2020.05.20-11.05.44:555][515]LogModuleManager: Shutting down and abandoning module FacialAnimation (286)
+[2020.05.20-11.05.44:555][515]LogModuleManager: Shutting down and abandoning module DataValidation (284)
+[2020.05.20-11.05.44:555][515]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (282)
+[2020.05.20-11.05.44:558][515]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2020.05.20-11.05.44:563][515]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2020.05.20-11.05.44:566][515]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (278)
+[2020.05.20-11.05.44:566][515]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2020.05.20-11.05.44:566][515]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2020.05.20-11.05.44:569][515]LogModuleManager: Shutting down and abandoning module ContentBrowser (271)
+[2020.05.20-11.05.44:572][515]LogModuleManager: Shutting down and abandoning module TreeMap (269)
+[2020.05.20-11.05.44:573][515]LogModuleManager: Shutting down and abandoning module AnimationSharing (266)
+[2020.05.20-11.05.44:573][515]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (264)
+[2020.05.20-11.05.44:573][515]LogModuleManager: Shutting down and abandoning module Paper2D (262)
+[2020.05.20-11.05.44:574][515]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (260)
+[2020.05.20-11.05.44:576][515]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (258)
+[2020.05.20-11.05.44:577][515]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (256)
+[2020.05.20-11.05.44:577][515]LogModuleManager: Shutting down and abandoning module PacketHandler (254)
+[2020.05.20-11.05.44:577][515]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (252)
+[2020.05.20-11.05.44:577][515]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (250)
+[2020.05.20-11.05.44:579][515]LogModuleManager: Shutting down and abandoning module MediaAssets (248)
+[2020.05.20-11.05.44:580][515]LogModuleManager: Shutting down and abandoning module Overlay (246)
+[2020.05.20-11.05.44:580][515]LogModuleManager: Shutting down and abandoning module OverlayEditor (245)
+[2020.05.20-11.05.44:580][515]LogModuleManager: Shutting down and abandoning module VREditor (242)
+[2020.05.20-11.05.44:582][515]LogModuleManager: Shutting down and abandoning module StringTableEditor (240)
+[2020.05.20-11.05.44:583][515]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (238)
+[2020.05.20-11.05.44:584][515]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (236)
+[2020.05.20-11.05.44:586][515]LogModuleManager: Shutting down and abandoning module FunctionalTesting (234)
+[2020.05.20-11.05.44:588][515]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (232)
+[2020.05.20-11.05.44:590][515]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (231)
+[2020.05.20-11.05.44:591][515]LogModuleManager: Shutting down and abandoning module UMG (228)
+[2020.05.20-11.05.44:592][515]LogModuleManager: Shutting down and abandoning module UMGEditor (227)
+[2020.05.20-11.05.44:593][515]LogModuleManager: Shutting down and abandoning module MessageLog (225)
+[2020.05.20-11.05.44:593][515]LogModuleManager: Shutting down and abandoning module SlateReflector (220)
+[2020.05.20-11.05.44:599][515]LogModuleManager: Shutting down and abandoning module Slate (218)
+[2020.05.20-11.05.44:599][515]LogModuleManager: Shutting down and abandoning module SlateCore (216)
+[2020.05.20-11.05.44:599][515]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (214)
+[2020.05.20-11.05.44:599][515]LogModuleManager: Shutting down and abandoning module UnrealEd (212)
+[2020.05.20-11.05.44:599][515]LogModuleManager: Shutting down and abandoning module MRMesh (210)
+[2020.05.20-11.05.44:599][515]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (208)
+[2020.05.20-11.05.44:599][515]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (206)
+[2020.05.20-11.05.44:600][515]LogModuleManager: Shutting down and abandoning module XAudio2 (204)
+[2020.05.20-11.05.44:602][515]LogModuleManager: Shutting down and abandoning module Networking (202)
+[2020.05.20-11.05.44:602][515]LogModuleManager: Shutting down and abandoning module Core (200)
+[2020.05.20-11.05.44:602][515]LogModuleManager: Shutting down and abandoning module MovieSceneTools (198)
+[2020.05.20-11.05.44:603][515]LogModuleManager: Shutting down and abandoning module CurveEditor (197)
+[2020.05.20-11.05.44:606][515]LogModuleManager: Shutting down and abandoning module Sequencer (195)
+[2020.05.20-11.05.44:612][515]LogModuleManager: Shutting down and abandoning module EditorStyle (194)
+[2020.05.20-11.05.44:616][515]LogModuleManager: Shutting down and abandoning module KismetCompiler (190)
+[2020.05.20-11.05.44:616][515]LogModuleManager: Shutting down and abandoning module MeshUtilities (188)
+[2020.05.20-11.05.44:616][515]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (187)
+[2020.05.20-11.05.44:618][515]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (186)
+[2020.05.20-11.05.44:618][515]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (185)
+[2020.05.20-11.05.44:619][515]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (183)
+[2020.05.20-11.05.44:623][515]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (181)
+[2020.05.20-11.05.44:628][515]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (179)
+[2020.05.20-11.05.44:629][515]LogModuleManager: Shutting down and abandoning module MaterialBaking (175)
+[2020.05.20-11.05.44:631][515]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (170)
+[2020.05.20-11.05.44:631][515]LogModuleManager: Shutting down and abandoning module DerivedDataCache (168)
+[2020.05.20-11.05.44:631][515]LogDerivedDataCache: Shutdown
+[2020.05.20-11.05.44:631][515]LogModuleManager: Shutting down and abandoning module XGEController (166)
+[2020.05.20-11.05.44:631][515]LogModuleManager: Shutting down and abandoning module TargetPlatform (164)
+[2020.05.20-11.05.44:631][515]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (163)
+[2020.05.20-11.05.44:633][515]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (161)
+[2020.05.20-11.05.44:634][515]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (159)
+[2020.05.20-11.05.44:635][515]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (157)
+[2020.05.20-11.05.44:635][515]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (155)
+[2020.05.20-11.05.44:638][515]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (153)
+[2020.05.20-11.05.44:638][515]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (151)
+[2020.05.20-11.05.44:638][515]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (149)
+[2020.05.20-11.05.44:639][515]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (147)
+[2020.05.20-11.05.44:640][515]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (145)
+[2020.05.20-11.05.44:640][515]LogModuleManager: Shutting down and abandoning module ImageWrapper (144)
+[2020.05.20-11.05.44:640][515]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (141)
+[2020.05.20-11.05.44:640][515]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (139)
+[2020.05.20-11.05.44:641][515]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (137)
+[2020.05.20-11.05.44:641][515]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (135)
+[2020.05.20-11.05.44:641][515]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (133)
+[2020.05.20-11.05.44:641][515]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (131)
+[2020.05.20-11.05.44:641][515]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (129)
+[2020.05.20-11.05.44:641][515]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (127)
+[2020.05.20-11.05.44:642][515]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (125)
+[2020.05.20-11.05.44:657][515]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (123)
+[2020.05.20-11.05.44:672][515]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (121)
+[2020.05.20-11.05.44:672][515]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (119)
+[2020.05.20-11.05.44:673][515]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (117)
+[2020.05.20-11.05.44:674][515]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.05.20-11.05.44:674][515]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2020.05.20-11.05.44:674][515]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2020.05.20-11.05.44:675][515]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2020.05.20-11.05.44:675][515]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2020.05.20-11.05.44:679][515]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2020.05.20-11.05.44:711][515]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (103)
+[2020.05.20-11.05.44:711][515]LogModuleManager: Shutting down and abandoning module InputCore (100)
+[2020.05.20-11.05.44:711][515]LogModuleManager: Shutting down and abandoning module Settings (98)
+[2020.05.20-11.05.44:711][515]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (96)
+[2020.05.20-11.05.44:712][515]LogModuleManager: Shutting down and abandoning module PhysXCooking (94)
+[2020.05.20-11.05.44:712][515]LogModuleManager: Shutting down and abandoning module ChaosSolvers (92)
+[2020.05.20-11.05.44:715][515]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (91)
+[2020.05.20-11.05.44:715][515]LogModuleManager: Shutting down and abandoning module Chaos (88)
+[2020.05.20-11.05.44:715][515]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (86)
+[2020.05.20-11.05.44:715][515]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (85)
+[2020.05.20-11.05.44:716][515]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.05.20-11.05.44:718][515]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.05.20-11.05.44:718][515]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.05.20-11.05.44:718][515]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.05.20-11.05.44:718][515]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.05.20-11.05.44:726][515]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.05.20-11.05.44:730][515]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.05.20-11.05.44:743][515]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.05.20-11.05.44:743][515]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.05.20-11.05.44:743][515]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B35BF4254-4F0D-59A4-9C69-DEAA2F459362%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c7a439734c5a65ff70bbcb9200ea58bf%7C2bebba9b9d4f454da230fd48964ebcc3%7Ca299da37-e028-413e-8e8d-92411ef20c89&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.20-11.05.44:743][515]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B35BF4254-4F0D-59A4-9C69-DEAA2F459362%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=c7a439734c5a65ff70bbcb9200ea58bf%7C2bebba9b9d4f454da230fd48964ebcc3%7Ca299da37-e028-413e-8e8d-92411ef20c89&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.20-11.05.44:764][515]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.05.20-11.05.44:767][515]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.05.20-11.05.44:780][515]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.05.20-11.05.44:781][515]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.05.20-11.05.44:781][515]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.20-11.05.44:781][515]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.20-11.05.44:781][515]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.20-11.05.44:782][515]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.20-11.05.44:782][515]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.20-11.05.44:783][515]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.20-11.05.44:783][515]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.20-11.05.44:783][515]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.20-11.05.44:785][515]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.20-11.05.44:786][515]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.20-11.05.44:791][515]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.20-11.05.44:793][515]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.20-11.05.44:793][515]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.20-11.05.44:793][515]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.20-11.05.44:799][515]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.20-11.05.44:801][515]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.20-11.05.44:801][515]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.20-11.05.44:802][515]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.20-11.05.44:804][515]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.20-11.05.44:804][515]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.20-11.05.44:804][515]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.20-11.05.44:805][515]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.20-11.05.44:805][515]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.20-11.05.44:806][515]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.20-11.05.44:807][515]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.20-11.05.44:807][515]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.20-11.05.44:813][515]LogD3D11RHI: Shutdown
+[2020.05.20-11.05.44:813][515]LogD3D11RHI: CleanupD3DDevice
+[2020.05.20-11.05.44:842][515]LogExit: Exiting.
+[2020.05.20-11.05.44:854][515]Log file closed, 05/20/20 13:05:44
